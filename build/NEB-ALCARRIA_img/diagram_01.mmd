@@ -1,0 +1,56 @@
+gantt
+    title NEB-ALCARRIA — Cronograma general (2026-2028)
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %y
+    tickInterval 3month
+    weekday monday
+
+    section Hitos administrativos
+    Apertura convocatoria (BOE)        :milestone, m1, 2026-04-17, 0d
+    Cierre solicitudes                 :milestone, m2, 2026-05-18, 0d
+    Resolución provisional (est.)      :milestone, m3, 2026-11-15, 0d
+    Resolución definitiva (est.)       :milestone, m4, 2027-02-15, 0d
+    Justificación intermedia           :crit, milestone, m5, 2027-06-30, 0d
+    Justificación final                :crit, milestone, m6, 2028-04-17, 0d
+
+    section F0 · Prep
+    Diseño técnico (NO subv.)          :done, prep1, 2026-04-29, 12d
+    Memoria + anexos (NO subv.)        :done, prep2, after prep1, 6d
+    Presentación FEGA (NO subv.)       :done, prep3, 2026-05-15, 3d
+
+    section F1 · Espera
+    Seguimiento expediente             :active, espera, 2026-05-19, 180d
+    Inicio recomendado ejecución       :crit, milestone, mstart, 2026-11-15, 0d
+    Movilización consorcio (a riesgo)  :mov, 2026-11-15, 60d
+
+    section P1 · 30 %
+    Preparación coordinadoras (2 sueldos) :p1prep, 2026-11-15, 105d
+    Coordinación Living Lab              :p1coord, 2026-12-01, 180d
+    Acuerdo formal cesión parcela       :milestone, p1ces, 2026-12-15, 0d
+    Jornada de lanzamiento              :milestone, p1k, 2027-01-20, 0d
+    Curso 1 · CUE/SIEX + SIG microexpl. :p1c1, 2027-02-01, 28d
+    Curso 2 · IoT + eficiencia hídrica  :p1c2, 2027-03-01, 28d
+    Curso 3 · Diseño digital ecosost.   :p1c3, 2027-04-01, 28d
+    Comunicación y divulgación          :p1com, 2026-12-01, 210d
+    Cierre técnico-económico P1         :p1cl, 2027-06-01, 30d
+
+    section Justif. 1
+    Memoria técnica + económica P1     :j1, 2027-06-01, 30d
+    Solicitud pago intermedio          :crit, j1pay, 2027-06-15, 15d
+
+    section P2 · 70 %
+    Coordinación Living Lab            :p2coord, 2027-07-01, 270d
+    Co-construcción del domo NEB       :crit, p2domo, 2027-07-01, 45d
+    Equipamiento (solar/conectividad/aguas) :p2eq, 2027-08-15, 30d
+    Despliegue IoT + drones en huerta  :p2iot, 2027-09-01, 60d
+    Ciclo hortícola otoño + datos al CUE :p2cult1, 2027-09-15, 105d
+    Ciclo hortícola primavera + datos al CUE :p2cult2, 2028-01-15, 60d
+    Visitas demostrativas comunidad    :p2vis, 2027-10-01, 150d
+    Jornada final · resultados         :milestone, p2jf, 2028-03-15, 0d
+    Comunicación y divulgación         :p2com, 2027-07-01, 270d
+    Cierre técnico-económico P2        :p2cl, 2028-03-01, 30d
+
+    section Justif. 2
+    Memoria técnica + económica P2     :j2, 2028-03-01, 35d
+    Auditoría externa                  :j2aud, 2028-03-20, 20d
+    Solicitud pago final               :crit, j2pay, 2028-04-01, 17d

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__notebooklm-mcp__notebook_query",
+      "mcp__notebooklm-mcp__source_add",
+      "mcp__notebooklm-mcp__source_rename",
+      "mcp__notebooklm-mcp__source_delete",
+      "mcp__notebooklm-mcp__notebook_get"
+    ]
+  }
+}
