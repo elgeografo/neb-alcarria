@@ -34,23 +34,20 @@ La iniciativa se diseña para concurrir a la convocatoria amparada por el **Real
 
 El proyecto se alinea con el **Plan Estratégico de la PAC (PEPAC) 2023-2027**, con cofinanciación al **43 % por fondos europeos FEADER** y al **57 % por el Ministerio de Agricultura, Pesca y Alimentación**, y se apoya en el modelo del **Sistema de Conocimiento e Innovación Agrarios (SCIA / AKIS)**, fomentando un ecosistema de innovación con enfoque multiactor.
 
-Dentro del RD 251/2024, NEB-ALCARRIA concurre a:
+NEB-ALCARRIA concurre como **acción única bajo el Programa I.B (Actividades demostrativas)** del RD 251/2024: un **Living Lab** sobre el terreno que prueba, evalúa, muestra y divulga la digitalización de la microexplotación hortícola mediante **talleres demostrativos**, **jornadas de campo** y **transferencia tecnológica peer-to-peer** entre futuros profesionales y la comunidad local. Esta arquitectura de **una sola propuesta de actividades** —concentrada íntegramente en I.B— asegura la coherencia evaluativa, blinda la financiación del equipamiento físico (sólo I.B/II.B permiten amortización de maquinaria y software, art. 8.10 RD 251/2024) y atiende al consejo del MAPA de no mezclar líneas de acción dispares.
 
-- **Programa I.C.1** — Cursos formativos para la adquisición de competencias en **digitalización**, orientados a **profesionales del sector**.
-- **Programa I.B** — **Actividades demostrativas** sobre el terreno que muestran la viabilidad real de las innovaciones formadas.
-
-La propuesta integra explícitamente, por mandato del RD 251/2024, contenidos relativos al **Sistema de Información de Explotaciones Agrarias (SIEX)** y al **Cuaderno Digital de Explotación Agrícola (CUE)** —temáticas marcadas como prioritarias en el formulario oficial del Programa I.C.
+La propuesta integra explícitamente, por mandato del RD 251/2024, contenidos relativos al **Sistema de Información de Explotaciones Agrarias (SIEX)** y al **Cuaderno Digital de Explotación Agrícola (CUE)** —temáticas marcadas como prioritarias en la convocatoria.
 
 ---
 
 ## 4. Objetivos
 
 El propósito central es **frenar la despoblación y fomentar el asentamiento de gente joven y cualificada** en la comarca, demostrando que la **horticultura digital de microexplotación** es una vía profesional viable, rentable y bella. Para ello, NEB-ALCARRIA persigue:
-1. Facilitar la **implantación del CUE** generando comunidades de paredizaje y gestion de dicho recurso.
-2. **Formar profesionales en horticultura digital** mediante un itinerario de tres cursos síncronos con reconocimiento académico (microcredencial UPM) y conectar esta formación con el cuaderno digital de explotación.
-3. **Demostrar en condiciones reales** el huerto digital. Plantear un caso de uso en la parcela experimental cedida por el **Ayuntamiento de Pastrana**.
-3. **Co-construir un domo geodésico NEB** como base operativa, símbolo de cohesión y experiencia vital transformadora para los participantes.
-4. **Tender un puente Madrid–Alcarria** que conecte la academia con la experiencia rual y fomente la integración de las nuevas generaciones en la españa vaciada.
+1. Facilitar la **implantación del CUE** generando comunidades de aprendizaje y gestión de dicho recurso.
+2. **Capacitar a futuros profesionales** del sector en horticultura digital mediante **transferencia tecnológica peer-to-peer** dentro del Living Lab, conectada al cuaderno digital de explotación.
+3. **Demostrar en condiciones reales** el huerto digital sobre la parcela experimental cedida por el **Ayuntamiento de Pastrana**.
+4. **Co-construir un domo geodésico NEB** como base operativa, símbolo de cohesión y experiencia vital transformadora para los participantes.
+5. **Tender un puente Madrid–Alcarria** que conecte la academia con la experiencia rural y fomente la integración de las nuevas generaciones en la España vaciada.
 
 ---
 
@@ -58,9 +55,9 @@ El propósito central es **frenar la despoblación y fomentar el asentamiento de
 
 El proyecto encarna íntegramente los tres pilares del NEB Compass:
 
-- **Beautiful — Bello.** El paisaje horticola mrisco tradicional regresará a las vegas de La Alcarria. El **domo geodésico**, co-construido con materiales locales (madera, corcho), dialoga con el paisaje alcarreño y elevará la microexplotación a **espacio inspirador y de alta calidad sensorial**, no a mera infraestructura productiva.
+- **Beautiful — Bello.** El paisaje hortícola morisco tradicional regresará a las vegas de la Alcarria. El **domo geodésico**, co-construido con materiales locales (madera, corcho), dialoga con el paisaje alcarreño y elevará la microexplotación a **espacio inspirador y de alta calidad sensorial**, no a mera infraestructura productiva.
 - **Sustainable — Sostenible.** La parcela funciona como demostrador de **bioeconomía circular** y **diseño regenerativo**: eficiencia hídrica extrema mediante IoT, autosuficiencia energética solar y ciclos cortos suelo-mesa.
-- **Together — Juntos.** Los participantes del living lab serán el germen y el motor tractor de los huertos morisco digitales donde estudiantes y sabios del lugar forjan víncvulos que proyectan hacia el futuro la nueva realidad rural de la comarca.
+- **Together — Juntos.** Los participantes del Living Lab serán el germen y el motor tractor de los huertos moriscos digitales donde estudiantes y sabios del lugar forjan vínculos que proyectan hacia el futuro la nueva realidad rural de la comarca.
 
 ---
 
@@ -92,7 +89,7 @@ El proyecto se ajusta a los plazos administrativos de la convocatoria amparada p
 
 ## 7. Diagrama Gantt
 
-> **Leyenda de secciones:** `F0 · Prep` = Fase 0 Preparación (NO subvencionable) · `F1 · Espera` = Fase 1 espera de resolución · `P1 · 30 %` = Periodo 1 de ejecución (formación teórica · ~30 % presupuesto) · `Justif. 1` = Justificación intermedia · `P2 · 70 %` = Periodo 2 de ejecución (Living Lab · ~70 % presupuesto) · `Justif. 2` = Justificación final + auditoría.
+> **Leyenda de secciones:** `F0 · Prep` = Fase 0 Preparación (NO subvencionable) · `F1 · Espera` = Fase 1 espera de resolución · `P1 · 30 %` = Periodo 1 de ejecución del Living Lab (arranque + talleres demostrativos · ~30 % presupuesto) · `Justif. 1` = Justificación intermedia · `P2 · 70 %` = Periodo 2 de ejecución del Living Lab (co-construcción + ciclos productivos · ~70 % presupuesto) · `Justif. 2` = Justificación final + auditoría.
 
 ```mermaid
 gantt
@@ -125,9 +122,9 @@ gantt
     Coordinación Living Lab              :p1coord, 2026-12-01, 180d
     Acuerdo formal cesión parcela       :milestone, p1ces, 2026-12-15, 0d
     Jornada de lanzamiento              :milestone, p1k, 2027-01-20, 0d
-    Curso 1 · CUE/SIEX + SIG microexpl. :p1c1, 2027-02-01, 28d
-    Curso 2 · IoT + eficiencia hídrica  :p1c2, 2027-03-01, 28d
-    Curso 3 · Diseño digital ecosost.   :p1c3, 2027-04-01, 28d
+    Taller demostrativo 1 · CUE/SIEX + SIG :p1c1, 2027-02-01, 28d
+    Taller demostrativo 2 · IoT + riego    :p1c2, 2027-03-01, 28d
+    Taller demostrativo 3 · Diseño digital :p1c3, 2027-04-01, 28d
     Comunicación y divulgación          :p1com, 2026-12-01, 210d
     Cierre técnico-económico P1         :p1cl, 2027-06-01, 30d
 
@@ -155,52 +152,133 @@ gantt
 
 ---
 
-## 8. Estructura de las actividades: de la teoría a la co-creación
+## 8. Estructura de las actividades: una sola acción Living Lab
 
-El programa se divide cronológicamente en **dos fases fuertemente interconectadas**: una primera fase de **formación teórica síncrona acreditada** (P1) y una segunda fase de **inmersión práctica y co-creación en el terreno** (P2). Las **fechas administrativas son inamovibles**; las actividades técnicas se han colocado, en la medida de lo posible, dentro de su **ventana estacional** en la Alcarria.
+NEB-ALCARRIA es **una única acción demostrativa (Programa I.B)** —el Living Lab— articulada cronológicamente en **dos fases fuertemente interconectadas** dentro del mismo expediente: una primera fase de **arranque y talleres demostrativos de transferencia tecnológica** (P1) y una segunda fase de **inmersión presencial, co-construcción y ciclos productivos** (P2). Las **fechas administrativas son inamovibles**; las actividades técnicas se han colocado, en la medida de lo posible, dentro de su **ventana estacional** en la Alcarria.
 
-**Aforos previstos:** 20–30 alumnos por curso · 10–20 participantes en el Living Lab.
+**Aforos previstos:** 20–30 participantes por taller demostrativo · 10–20 en la inmersión presencial sobre el terreno (cumple holgadamente el mínimo de 10 participantes/actividad fijado por la Guía del Solicitante).
 
-### 8.1 Fase 1 — Formación teórica (Programa I.C.1)
+### 8.1 Fase 1 — Arranque del Living Lab y talleres demostrativos
 
-Tres cursos síncronos (modalidad mixta u online) que garantizan la flexibilidad del estudiante. **≥80 % de asistencia + prueba final** para obtener el **certificado oficial RD 251/2024** y, por encima, una **microcredencial UPM de 3 ECTS** por curso. 1,5 h justificables de preparación por cada hora impartida.
+La primera fase moviliza al consorcio, formaliza la cesión de la parcela y despliega **tres talleres demostrativos de transferencia tecnológica peer-to-peer** que ponen sobre la mesa, en condiciones reales, las herramientas digitales que la fase 2 desplegará a pleno rendimiento sobre la parcela. **Modalidad presencial** en espacio demostrativo del territorio (con apoyo virtual síncrono auxiliar limitado, sin desnaturalizar el carácter demostrativo). Evaluación según anexos del RD 251/2024: **≥80 % de asistencia + cuestionario de satisfacción** (evaluación interna, sin prueba de aprovechamiento). 1,5 h justificables de preparación por cada hora demostrada.
 
-**Duración: 30 horas síncronas por curso** (≈75 h de trabajo total del alumno → **3 ECTS**), distribuidas en **10 h/semana × 3 semanas + 1 semana para prueba final**. Estructura interna:
+**Duración: 30 horas por taller demostrativo**, distribuidas en **10 h/semana × 3 semanas + 1 semana de cierre demostrativo aplicado**. Estructura interna:
 
-- **18 h teoría / fundamentos** en dobrel vertiente, presencial o aula virtual síncrona.
-- **9 h práctica guiada** (datasets reales del territorio, simulaciones, manejo software).
-- **3 h evaluación**: caso práctico + defensa breve.
+- **18 h sesiones de transferencia tecnológica peer-to-peer** en espacio demostrativo (con apoyo virtual síncrono opcional).
+- **9 h demostración guiada** con datasets reales del territorio, simulaciones y manejo de software sobre el terreno.
+- **3 h cierre**: caso práctico aplicado + cuestionario de satisfacción.
 
-El conjunto de los **tres cursos** forma un itinerario de **9 ECTS** que UPM podrá sellar como microcredencial agregada *"Especialista en Horticultura Digital de Microexplotaciones"*. (curso de espcialización no de experto. El curso de experto lo comlata con los 6 creditos del living lab)
+| Taller | Edición | Contenidos demostrativos |
+|--------|---------|--------------------------|
+| **TD1 · Cuaderno Digital (CUE) y SIG para microexplotaciones** | feb 2027 | Demostración sobre el terreno de la cumplimentación de **SIEX** y **CUE** (obligatorio por convocatoria). **SIGPAC**, recintos, declaración. **SIG** aplicado a alta precisión en microexplotación: QGIS, teledetección, NDVI, gestión eficiente del territorio. |
+| **TD2 · Sensores IoT y eficiencia hídrica en horticultura** | mar 2027 | Despliegue demostrativo de redes **IoT** (LoRa/NB-IoT), sensorización de humedad de suelo y meteo, **automatización del riego por goteo**, plataformas de datos, **volcado automatizado al CUE**. |
+| **TD3 · Diseño digital de instalaciones agropecuarias ecosostenibles** | abr 2027 | Demostración de software **CAD** y cálculo estructural de pequeñas instalaciones de madera, **diseño regenerativo y bioeconomía circular**. Fundamentos del **domo geodésico** que se levantará en la Fase 2. |
 
-| Curso | Edición | Contenidos núcleo |
-|-------|---------|-------------------|
-| **C1 · Cuaderno Digital (CUE) y SIG para microexplotaciones** | feb 2027 | Cumplimentación de **SIEX** y **CUE** (obligatorio por convocatoria). **SIGPAC**, recintos, declaración. **SIG** aplicado a alta precisión en microexplotación: QGIS, teledetección, NDVI, gestión eficiente del territorio. |
-| **C2 · Sensores IoT y eficiencia hídrica en horticultura** | mar 2027 | Despliegue de redes **IoT** (LoRa/NB-IoT), sensorización de humedad de suelo y meteo, **automatización del riego por goteo**, plataformas de datos, **volcado automatizado al CUE**. |
-| **C3 · Diseño digital de instalaciones agropecuarias ecosostenibles** | abr 2027 | Software **CAD** y cálculo estructural de pequeñas instalaciones de madera, **diseño regenerativo y bioeconomía circular**. Fundamentos matemáticos del **domo geodésico** que se construirá en la Fase 2. |
+### 8.2 Fase 2 — Inmersión presencial, co-construcción y ciclos productivos
 
-### 8.2 Fase 2 — Living Lab en la parcela experimental (Programa I.B)
-
-Los estudiantes que hayan completado los 9 creditos del curso de especialización puede obtener el titulo propio **UPM de EXPERTO en implatación de horticultura digital en microexplotaciones** particiapndo en las actividades del living Lab (poner nombre) con una carga equivalente de 6 ECTS.
-
-Esta actividad se realizará presencialmente en Pastrana y puede integrar **prácticas curriculares o extracurriculares** sobre parcelas experimentales que podrán ser huertos particulares propuesto por los participantes o el **huerto piloto situado en la parcela experimental cedida por el Ayuntamiento de Pastrana**, transformándola en un **Living Lab** activo donde la filosofía NEB *Together* cobra vida. Los estudiantes trabajan **codo con codo con los "sabios del lugar"** y la comunidad local.
+La fase 2 traslada los tres talleres al terreno. Se realiza **100 % presencialmente** en Pastrana sobre parcelas experimentales —huertos particulares propuestos por los participantes o el **huerto piloto situado en la parcela experimental cedida por el Ayuntamiento de Pastrana**—, transformándolas en un **Living Lab** activo donde la filosofía NEB *Together* cobra vida. Los participantes trabajan **codo con codo con los "sabios del lugar"** y la comunidad local en un esquema de **innovación interactiva multiactor** (AKIS).
 
 **Hitos demostrativos integrados:**
 
 | Hito | Ventana | Descripción |
 |------|---------|-------------|
-| **H1 · Co-construcción del domo NEB** *(Beautiful + Together)* | jul–ago 2027 | Aplicación directa de los cálculos del C3. Domo geodésico de madera con impregnación de corcho, **levantado a mano por los participantes en ~2 semanas**. Base operativa del Living Lab. |
-| **H2 · Equipamiento autosuficiente** *(Sustainable)* | ago–sep 2027 | **Panel solar**, **conectividad** (Starlink u otros). Convierte el domo en aula-laboratorio de hábitat rural conectado y autosuficiente. |
-| **H3 · Despliegue IoT sensores en la huerta** | sep–oct 2027 | Aplicación directa del C2: red de **sensores de humedad y meteo**, **riego inteligente**, **mapeo dronístico** (RGB/multiespectral) para el seguimiento de las vegas hortícolas. |
-| **H4 · Ciclo hortícola con CUE en producción** | sep 2027 – mar 2028 | Aplicación directa del C1: dos ciclos de cultivo (otoño + primavera) con **volcado real de datos al Cuaderno Digital de Explotación**. Demostración empírica de rentabilidad y eficiencia hídrica de la microexplotación digitalizada. |
+| **H1 · Co-construcción del domo NEB** *(Beautiful + Together)* | jul–ago 2027 | Aplicación directa del TD3. Domo geodésico de madera con impregnación de corcho, **levantado a mano por los participantes en ~2 semanas**. Base operativa del Living Lab. |
+| **H2 · Equipamiento autosuficiente** *(Sustainable)* | ago–sep 2027 | **Panel solar**, **conectividad** (Starlink u otros). Convierte el domo en espacio demostrativo de hábitat rural conectado y autosuficiente. |
+| **H3 · Despliegue IoT sensores en la huerta** | sep–oct 2027 | Aplicación directa del TD2: red de **sensores de humedad y meteo**, **riego inteligente**, **mapeo dronístico** (RGB/multiespectral) para el seguimiento de las vegas hortícolas. |
+| **H4 · Ciclo hortícola con CUE en producción** | sep 2027 – mar 2028 | Aplicación directa del TD1: dos ciclos de cultivo (otoño + primavera) con **volcado real de datos al Cuaderno Digital de Explotación**. Demostración empírica de rentabilidad y eficiencia hídrica de la microexplotación digitalizada. |
 
-### 8.3 Líneas transversales
+> **Nota UPM (al margen del expediente FEGA).** La participación combinada en los talleres demostrativos de la Fase 1 y la inmersión sobre el terreno de la Fase 2 podrá convalidarse internamente por UPM como prácticas curriculares/extracurriculares y, eventualmente, como título propio. **Esto no constituye entregable ni objetivo evaluable de la subvención**, que se mide exclusivamente por indicadores I.B (asistencia, satisfacción, divulgación, demostración).
+
+### 8.3 Listado consolidado de actividades demostrativas (referencia Anexo II.B)
+
+Operacionalmente, las dos fases narradas arriba se ejecutan como una **secuencia de 25 actividades demostrativas presenciales** (`A1`–`A25`), cada una de **≤ 2 días** (cumple Art. 5.6 RD 251/2024 y aclaración FEGA), agrupadas en **10 familias temáticas** (`F1`–`F10`) bajo el paraguas único del Living Lab. Cada actividad puede tener **una o varias ediciones** (mismo contenido, distintas fechas/lugares) para maximizar exposición y cubrir ventana estacional. Esta tabla es la **fuente de verdad** que se traslada a la sección 2.4 del Anexo II.B y al Anexo III (cronograma).
+
+| Id | Familia | Actividad demostrativa | Duración | Ediciones | Prep (h) | Ventana(s) | Periodo |
+|----|---------|------------------------|----------|-----------|---------:|------------|---------|
+| **A1** | F1 · Concepto NEB | Concepto NEB aplicado a la microexplotación alcarreña | 1 d | 1 | 8 | ene 2027 | P1 |
+| **A2** | F2 · CUE+SIG | Cumplimentación CUE/SIEX | 2 d | 2 | 32 | feb 2027 (E1) · sep 2027 (E2) | P1+P2 |
+| **A3** | F2 · CUE+SIG | SIGPAC y declaración | 1 d | 1 | 8 | mar 2027 | P1 |
+| **A4** | F2 · CUE+SIG | SIG QGIS + NDVI en campo | 2 d | 1 | 16 | abr 2027 | P1 |
+| **A5** | F3 · IoT+riego | Despliegue red IoT en huerta | 2 d | 1 | 80 | sep 2027 | P2 |
+| **A6** | F3 · IoT+riego | Demostración riego automatizado | 1 d | 2 | 32 | oct 2027 (E1) · feb 2028 (E2) | P2 |
+| **A7** | F3 · IoT+riego | Volcado automatizado de datos al CUE | 1 d | 1 | 16 | oct 2027 | P2 |
+| **A8** | F4 · Diseño digital | CAD instalaciones de madera | 2 d | 1 | 8 | may 2027 | P1 |
+| **A9** | F4 · Diseño digital | Cálculo y planos del domo geodésico | 1 d | 1 | 8 | may 2027 | P1 |
+| **A10** | F5 · Domo NEB | Levantamiento de la estructura del domo | 2 d | 1 | 160 | jul 2027 | P2 |
+| **A11** | F5 · Domo NEB | Anclajes y fijaciones del domo | 1 d | 1 | 80 | jul 2027 | P2 |
+| **A12** | F5 · Domo NEB | Cubierta y entelado del domo | 2 d | 1 | 40 | jul–ago 2027 | P2 |
+| **A13** | F5 · Domo NEB | Acabado e impermeabilización con corcho | 1 d | 1 | 24 | ago 2027 | P2 |
+| **A14** | F6 · Equipamiento | Instalación fotovoltaica | 1 d | 1 | 24 | ago 2027 | P2 |
+| **A15** | F6 · Equipamiento | Conectividad satelital y red | 1 d | 1 | 12 | ago 2027 | P2 |
+| **A16** | F7 · Despliegue terreno | Despliegue de sensores en la huerta | 2 d | 1 | 40 | sep 2027 | P2 |
+| **A17** | F7 · Despliegue terreno | Vuelo dronístico RGB + multiespectral | 1 d | 2 | 32 | oct 2027 (E1) · abr 2028 (E2) | P2 |
+| **A18** | F8 · Ciclo productivo | Jornada de inicio del ciclo otoño | 1 d | 1 | 32 | sep 2027 | P2 |
+| **A19** | F8 · Ciclo productivo | Seguimiento medio ciclo otoño | 1 d | 1 | 64 | nov 2027 | P2 |
+| **A20** | F8 · Ciclo productivo | Cosecha + lectura de datos otoño | 1 d | 1 | 32 | dic 2027 | P2 |
+| **A21** | F8 · Ciclo productivo | Jornada de inicio del ciclo primavera | 1 d | 1 | 48 | feb 2028 | P2 |
+| **A22** | F8 · Ciclo productivo | Cosecha + lectura de datos primavera | 1 d | 1 | 64 | abr 2028 | P2 |
+| **A23** | F9 · Cierre | Jornada final de resultados del Living Lab | 1 d | 1 | 8 | abr 2028 | P2 |
+| **A24** | F10 · Software open-source | Configuración del cuaderno digital open-source para microexplotación hortícola (FarmOS adaptado · TRL 5 → TRL 7) | 1 d | 1 | 440 | mar 2027 | P1 |
+| **A25** | F10 · Software open-source | Configuración del SIG open-source (QGIS + QField) para microexplotaciones (TRL 5 → TRL 7) | 1 d | 1 | 405 | abr 2027 | P1 |
+
+**Totales:** 25 actividades · 29 ediciones · 36 días-actividad (11 en P1, 25 en P2) · **~1.770 h de personal de apoyo** para acondicionamiento previo · aforo objetivo 15–25 participantes/edición · ~60–90 participantes únicos. Mínimo legal: ≥10 participantes/edición (Guía del Solicitante FEGA).
+
+#### Madurez tecnológica (TRL) y estrategia de progresión
+
+El stack tecnológico de NEB-ALCARRIA arranca en **TRL 5** (componentes individualmente validados en entornos relevantes pero no integrados como producto unificado para microexplotación hortícola en España): FarmOS, QGIS+QField, IoT LoRa, dron multiespectral, Sentinel-2.
+
+- **P1 — Configuración (A24, A25): TRL 5 → TRL 7.** El equipo UPM integra el conjunto en un **sistema completo y operativo** adaptado al caso de uso: cuaderno digital con conectores SIGPAC y SIEX, alertas Vademécum MAPA, plantillas QGIS para microexplotación, conexión Sentinel-2 para NDVI y trazabilidad Global GAP. Al final de P1 el sistema está **desplegado en el servidor del Living Lab y listo para uso real**.
+- **P2 — Demostración + feedback: TRL 7 → TRL 8.** Las 17 actividades demostrativas de P2 sobre la parcela real, con ciclos productivos completos (otoño + primavera) y feedback iterativo de profesionales del sector y la comunidad local, **validan el sistema en su entorno operativo definitivo** y elevan su madurez a TRL 8 (sistema completo y cualificado).
+
+Esta progresión es coherente con la línea estratégica **A) CUE** del baremo y con la **innovación interactiva multiactor (AKIS)** del criterio B4.
+
+> **A1 · Concepto NEB aplicado a la microexplotación alcarreña** abre el Living Lab con una **jornada multiactor de inmersión territorial** en Pastrana: presentación del marco *Beautiful, Sustainable & Together* aplicado al caso NEB-ALCARRIA, visita a la parcela experimental, dinámica de co-creación con la comunidad local, ejemplos de proyectos NEB-aligned en otros territorios europeos y lanzamiento del programa demostrativo. Sienta el lenguaje y los valores que vertebran las 22 actividades restantes.
+
+#### Acondicionamiento previo del Living Lab (personal de apoyo)
+
+El RD 251/2024 (Art. 8.1.a.1.**ii**) reconoce expresamente como gasto subvencionable la figura de **Personal de apoyo** —*"aquel personal no docente, encargado de dar soporte al desarrollo de las actividades formativas, demostrativas y divulgativas"*—, que es **novedad de esta convocatoria**. La FAQ 3.34 del MAPA aclara que **NO le aplica el tope de 1,5 h de preparación por hora impartida** (eso es solo para personal docente); su único límite es el laboral estándar de **1.720 h anuales por trabajador**. Esto permite imputar todo el trabajo de acondicionamiento físico previo a cada actividad demostrativa, lo que es **clave** porque una jornada demostrativa de ≤ 2 días no puede ejecutar materialmente todo el proceso (p. ej., los 20 anclajes del domo): la demostración muestra una **muestra representativa en condiciones reales** y el resto queda preparado por el personal de apoyo.
+
+**Partidas presupuestarias** (hoja `PRESUPUESTO P.I.B-Agrupación` del Anexo I y Anexo XXII):
+
+- **A.2 Personal de apoyo externo** — tope **90 €/h IVA excl.** (carpintería externa, instaladores eléctricos, técnicos IoT subcontratados).
+- **A.4 Personal de apoyo propio** — coste salarial bruto / 1.720 h anuales (técnicos UPM y COPRODELI dedicados al acondicionamiento).
+
+| Id | Tareas preparatorias | Horas | Perfil personal de apoyo |
+|----|---------------------|------:|--------------------------|
+| A1 | Logística del espacio, materiales conceptuales, dossier de bienvenida | 8 | Coordinación + diseño |
+| A2 | Preparación de datasets reales Pastrana, configuración de equipos (×2 ed) | 32 | Técnico/a GIS |
+| A3 | Configuración software SIGPAC, casos de estudio reales | 8 | Técnico/a GIS |
+| A4 | Preparación de imágenes satelitales, calibración de instrumentos de campo | 16 | Técnico/a GIS + drones |
+| A5 | **Pre-cableado y configuración de gateways LoRa, montaje del servidor IoT** (la demo despliega 3–4 sensores; el resto queda preinstalado para que la red sea operativa) | 80 | Técnico/a IoT |
+| A6 | Calibración de válvulas, programación de la lógica de riego (×2 ed) | 32 | Técnico/a IoT + agronómico |
+| A7 | Configuración del pipeline de datos, integración con la plataforma CUE | 16 | Técnico/a software |
+| A8 | Preparación de software CAD y modelos pre-cargados | 8 | Ingeniero/a CAD |
+| A9 | Hojas de cálculo del domo, ejemplos pre-resueltos | 8 | Ingeniero/a estructural |
+| A10 | **Precorte de listones de madera, perforación de uniones, marcado y acopio** (la demo monta un módulo del domo; el resto del material queda precortado) | 160 | Carpintero/a |
+| A11 | **Replanteo de los 20 puntos del domo, preinstalación de 16 anclajes** (la demo ejecuta los 4 anclajes restantes) | 80 | Albañil + topógrafo/a |
+| A12 | Tratamiento previo de paños de tela, prefijación parcial de la cubierta | 40 | Carpintero/a |
+| A13 | Preparación de la mezcla corcho-aglomerante, mock-up parcial | 24 | Carpintero/a |
+| A14 | **Pre-cableado fotovoltaico, montaje parcial del soporte** (la demo iza y conecta los paneles) | 24 | Instalador/a eléctrico |
+| A15 | Preconfiguración del router/red, preinstalación del soporte de antena | 12 | Técnico/a telecom |
+| A16 | Calibración de sensores en banco, configuración previa de cada nodo | 40 | Técnico/a IoT |
+| A17 | Calibración de cámaras del dron, planes de vuelo, datasets de referencia (×2 ed) | 32 | Operador/a de dron |
+| A18 | Laboreo de la parcela, abonado, sustratos, plántulas, riego inicial | 32 | Técnico/a agronómico |
+| A19 | Mantenimiento del cultivo entre A18 y A19 (riego, escardado, lectura de sensores) | 64 | Técnico/a agronómico |
+| A20 | Cosecha previa + preparación de la presentación de datos del ciclo otoño | 32 | Técnico/a agronómico |
+| A21 | Mantenimiento intercampaña + laboreo y siembra del ciclo primavera | 48 | Técnico/a agronómico |
+| A22 | Mantenimiento del ciclo primavera + cosecha + preparación de datos | 64 | Técnico/a agronómico |
+| A23 | Edición de vídeo de síntesis, materiales gráficos de la jornada final | 8 | Comunicación |
+| **Total** |  | **868** |  |
+
+Esta estimación se afina al construir el presupuesto definitivo y se traslada literal a la **sección 3.5 Recursos humanos** de cada ficha de actividad del Anexo II.B y al detalle del Anexo XXII (Memoria presupuestaria). En la justificación posterior cada hora se acredita con el **certificado por trabajador (Anexo XVI)** firmado por responsable y trabajador.
+
+### 8.4 Líneas transversales
 
 | Línea | P1 | P2 | Notas |
 |------|----|----|-------|
-| **Coordinación + preparación** | 2 coordinadoras (UPM + COPRODELI) preparando cursos y LL desde nov 2026 | continuo | Sueldos justificables como personal propio. Ejecución a riesgo hasta resolución provisional. |
-| **Comunicación y divulgación** | continuo | continuo | Web, RRSS, podcast, vídeo, presencia en **AEI-Agri** y red **AKIS**. Mención **FEADER + MAPA** obligatoria. |
-| **Evaluación AKIS / SCIA** | seguimiento intermedio (jun 2027) | evaluación final (mar 2028) | Indicadores de impacto, satisfacción ≥80 %, asistencia certificada, microcredenciales emitidas, datos volcados al CUE. |
+| **Coordinación + preparación** | 2 coordinadoras (UPM + COPRODELI) preparando los talleres y el Living Lab desde nov 2026 | continuo | Sueldos justificables como personal propio (≤20 % de los costes directos). Ejecución a riesgo hasta resolución provisional. |
+| **Comunicación y divulgación** | continuo | continuo | Web, RRSS, podcast, vídeo, presencia en **AEI-Agri** y red **AKIS**. Mención **FEADER + MAPA** obligatoria. Comunicación previa al FEGA con ≥10 días de antelación por actividad nueva (≥7 días para modificaciones). |
+| **Evaluación AKIS / SCIA** | seguimiento intermedio (jun 2027) | evaluación final (mar 2028) | Indicadores I.B: asistencia ≥80 %, evaluación interna de satisfacción, número de participantes que completan la actividad, datos volcados al CUE, alcance divulgativo. |
 
 ---
 
@@ -210,8 +288,8 @@ Recomendación de FEGA: **30 % en P1 / 70 % en P2** para maximizar la ejecución
 
 ```mermaid
 pie title Distribución indicativa de gasto subvencionable
-    "Periodo 1 (P1) · Formación" : 30
-    "Periodo 2 (P2) · Living Lab" : 70
+    "Periodo 1 · Arranque + talleres demostrativos" : 30
+    "Periodo 2 · Co-construcción + ciclos productivos" : 70
 ```
 
 ---
@@ -220,7 +298,7 @@ pie title Distribución indicativa de gasto subvencionable
 
 A través del intercambio constante de experiencias en este Living Lab, NEB-ALCARRIA aspira a:
 
-- **Formar 60–90 profesionales** del sector agroalimentario en horticultura digital, vertebrados por el **Cuaderno Digital de Explotación**: 30 h síncronas / 3 ECTS por curso, hasta **9 ECTS** por itinerario completo (microcredencial agregada *"Especialista en Horticultura Digital de Microexplotaciones"*).
+- **Capacitar a 60–90 futuros profesionales** del sector agroalimentario en horticultura digital de microexplotación, vertebrados por el **Cuaderno Digital de Explotación**, mediante los **talleres demostrativos** de la Fase 1 y la **inmersión presencial** en los hitos H1–H4 sobre el terreno.
 - **Demostrar empíricamente** sobre 3.000 m² reales que la **microexplotación hortícola digitalizada** es **rentable** y **altamente eficiente** en uso de agua y suelo, con datos volcados al CUE en producción.
 - **Co-construir un domo geodésico NEB** como pieza emblemática, replicable, sostenible, parcialmente autosuficiente y plenamente conectada.
 - **Activar un puente Madrid–Alcarria** que ofrezca a estudiantes UPM una vía vital y profesional concreta hacia el medio rural.
@@ -234,7 +312,9 @@ Al alinear **alta tecnología** con **patrimonio y belleza rural**, creamos el c
 ## 11. Supuestos y puntos a confirmar
 
 - **Eje único** consolidado en torno al **CUE + horticultura digital de microexplotación**, atendiendo a la advertencia explícita del MAPA en el Info Day: *"evitar presentar eventos aislados sin un proyecto estructurado"* y *"no mezclar líneas de acción dispares"*.
-- **Programa I.C.1 (profesionales) únicamente.** La 2ª edición a asesores (I.C.2) queda fuera del alcance actual; podría incorporarse como solicitud independiente si interesa duplicar alcance.
+- **Acción única bajo Programa I.B (Living Lab)** —decisión consolidada—: una sola propuesta de actividades concentra los talleres demostrativos y la inmersión presencial. Esta arquitectura (i) asegura la financiación de inversiones (sólo I.B/II.B amortizan equipo y software, art. 8.10 RD 251/2024), (ii) supera con holgura el umbral mínimo de **70 000 €** por propuesta, y (iii) evita el riesgo de evaluadores ciegos cruzando dos memorias separadas.
+- **Disciplina léxica I.B**: el documento sustituye sistemáticamente vocabulario académico (curso, alumnos, examen, microcredencial, ECTS) por terminología demostrativa (Living Lab, taller demostrativo, participantes, evaluación interna de satisfacción, transferencia tecnológica peer-to-peer). Cualquier eventual convalidación UPM en ECTS o título propio se gestionará **internamente al margen del expediente FEGA**.
+- **Límites operativos I.B aplicables**: inversiones (amortización de equipo, drones, IoT, software) topadas al **50 % de los gastos directos** con intensidad de ayuda **65 %**; personal externo **90 €/h IVA excl.**, con **1,5 h de preparación justificables por hora demostrada**; coordinación ≤ 20 % de gastos directos.
 - **Cesión formal de la parcela de 3.000 m²** por el Ayuntamiento de Pastrana: pendiente de **convenio firmado** antes de la presentación de la solicitud (componente A1/A2 del baremo).
 - **Duración**: el RD **no fija mínimo**, sólo el **máximo de 3 años**. Este proyecto plantea ~17 meses efectivos (nov 2026 → mar 2028), en línea con la duración "de un año, año y medio" recomendada por FEGA en la jornada de la convocatoria.
 - **Subvencionabilidad (art. 8 RD 251/2024)**: el periodo subvencionable empieza en la presentación de la solicitud. **Toda la Fase 0 (diseño técnico, memoria, anexos) es NO subvencionable** y la asume el consorcio.
@@ -242,7 +322,7 @@ Al alinear **alta tecnología** con **patrimonio y belleza rural**, creamos el c
 - **Fechas asumidas** para resolución provisional/definitiva basadas en el plazo legal (6 meses) y la praxis (10–12 meses) descrita en la jornada FEGA. **Ajustar al publicarse la resolución real.**
 - **Justificaciones (15–30 jun 2027 y 1–17 abr 2028)** son las indicadas en la convocatoria actual; **revisar contra la convocatoria publicada en BDNS/BOE** del ciclo en el que se concurra.
 - **No hay anticipo**: el consorcio debe disponer de tesorería para ejecutar antes del pago intermedio (jun 2027) y final (abr 2028).
-- **Inclusión obligatoria** de contenidos SIEX + CUE en el C1 (mandato art. RD 251/2024 cuando la propuesta toca nutrición sostenible o fitosanitarios).
+- **Inclusión obligatoria** de contenidos SIEX + CUE en el TD1 (mandato del RD 251/2024 cuando la propuesta toca nutrición sostenible o fitosanitarios).
 - **Domo, autosuficiencia y narrativa NEB ampliada**: si se desea desarrollar un proyecto-hermano más ambicioso de hábitat rural, valorar concurrencia paralela a **NEB Facility / LIFE / Interreg**, sin mezclar con esta solicitud (el propio MAPA recomienda presentar líneas dispares como solicitudes separadas).
 
 ---
