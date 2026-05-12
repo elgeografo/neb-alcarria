@@ -34,6 +34,112 @@
 
 ---
 
+# 0. CONTEXTO TERRITORIAL Y MOTIVACIÓN DE LA PROPUESTA
+
+> *La presente sección no forma parte del articulado obligatorio del Anexo II.B pero se incluye al inicio del documento porque ofrece la base demográfica, geográfica y socioeconómica sin la cual los criterios B1, B2 y B4 quedan reducidos a una enumeración de actividades. NEB-ALCARRIA no es una propuesta abstracta: nace de una geografía concreta, de una demografía documentada y de una tensión estructural —Madrid frente a la Alcarria— que constituye, simultáneamente, el problema y la oportunidad.*
+
+## 0.1 ¿Qué se entiende por "la Alcarria"?
+
+La Alcarria es una **comarca histórica y natural** que se extiende por **8.879,7 km²** repartidos entre 190 municipios de tres provincias: Guadalajara (4.488 km², 111 municipios), Cuenca (2.752 km², 43 municipios) y Madrid (1.550 km², 36 municipios) [Pérez González & Jiménez Blasco, *La población de la Alcarria*, basado en Padrón Continuo INE 2021]. Es una comarca **transautonómica** —entre Castilla-La Mancha y Madrid— coronada por el páramo, surcada por los valles del Tajo, el Tajuña, el Henares y sus afluentes, y caracterizada por un poblamiento histórico de **emplazamiento en ladera** que evita los desbordamientos de los ríos —tónica habitual en los fondos de valle hasta las obras hidráulicas del Alto Tajo en los años 50 del siglo XX.
+
+> *"Zorita de los Canes está situada en una curva del Tajo... echada a la sombra de las ruinas del castillo de la orden de Calatrava... Está estratégicamente situado sobre un cerrillo rocoso, difícil de subir."* (Camilo José Cela, *Viaje a la Alcarria*, 1948).
+
+La parcela experimental cedida por el Ayuntamiento de Pastrana se enmarca íntegramente en la **Alcarria de Guadalajara**, en el corazón histórico de la comarca, a 110 km del centro de Madrid.
+
+## 0.2 Una despoblación severa, documentada y cuantificada
+
+La densidad demográfica de la Alcarria es de **39,97 hab/km²** —cifra **deformada al alza** por la inclusión de los 36 municipios madrileños en su área metropolitana. Si se descuenta este efecto, la realidad es la siguiente:
+
+- **El 50 % de los municipios alcarreños tiene menos de 166 habitantes** (mediana).
+- **El 25 % tiene menos de 64 habitantes** (cuartil inferior).
+- **El 10 % tiene menos de 39 habitantes** (decil primero).
+- **70 municipios** (37 % del total) tienen entre 1 y 100 habitantes.
+- **61 municipios** (33 %) tienen entre 101 y 500.
+- **El 89,16 % de los municipios** son **plenamente rurales** según la definición del INE (menos de 2.000 habitantes).
+
+| Tamaño del municipio | Nº de municipios | % |
+|----------------------|-----------------:|--:|
+| 1 – 100 hab. | 70 | 37 % |
+| 101 – 500 | 61 | 33 % |
+| 501 – 1.000 | 14 | 7 % |
+| 1.001 – 2.000 | 20 | 11 % |
+| 2.001 – 10.000 | 22 | 12 % |
+
+> *Fuente: Padrón Continuo INE, 1 de enero de 2021. Sólo cinco municipios alcarreños superan los 10.000 habitantes: Guadalajara capital (87.064) y cuatro municipios madrileños (Arganda del Rey, Mejorada del Campo, Velilla de San Antonio y Villalbilla).*
+
+**Pastrana** —sede del Living Lab— pertenece a este universo rural profundo. Con sus aproximadamente 1.000 habitantes, está por encima de la mediana comarcal pero pertenece sin duda al perímetro de **municipios plenamente rurales** que vienen perdiendo población desde mediados del siglo XIX.
+
+## 0.3 La doble dinámica: Madrid magnetiza, la Alcarria de interior se vacía
+
+La aparente estabilidad del agregado comarcal (351.287 habitantes en 2021, +57,8 % respecto a 1996) **oculta una desigualdad demográfica radical**:
+
+| Provincia | % municipios que **PIERDEN** población 2015–2021 | % municipios que **GANAN** población 2015–2021 |
+|-----------|------------------------------------------------:|---------------------------------------------:|
+| **Cuenca** | **86,67 %** | 11,11 % |
+| **Guadalajara** | **67,27 %** | 30,91 % |
+| **Madrid** | 8,57 % | **91,43 %** |
+
+> *Fuente: ibíd. Padrón Continuo INE.*
+
+La conclusión es inequívoca: **la Alcarria madrileña** —los 36 municipios del corredor metropolitano de Arganda– Chinchón– Colmenar de Oreja– Loeches– Morata de Tajuña— **gana habitantes a un ritmo del 91 % de sus municipios**, contagiada por el dinamismo de la metrópoli. La **Alcarria de Guadalajara y, sobre todo, la Alcarria conquense pierden habitantes en el 67 % y 87 % de sus municipios respectivamente**. Pastrana se sitúa en este segundo grupo: su entorno se está despoblando mientras a 90 km, en la otra dirección, los pueblos crecen como suburbios de Madrid.
+
+Esta no es una observación menor: es **el problema central del que parte NEB-ALCARRIA**. No basta con "estar cerca de Madrid". El dinamismo madrileño se detiene en una línea geográfica concreta —aproximadamente la frontera autonómica— y a partir de ahí la despoblación se acelera. La Alcarria oriental queda atrapada en una doble paradoja:
+
+1. **Está demasiado cerca de Madrid** para haber generado dinámicas autónomas de desarrollo (es periferia funcional);
+2. **Está demasiado lejos** para beneficiarse del efecto suburbio (a 110 km, fuera del *commuter belt*).
+
+## 0.4 Presión inmobiliaria de Madrid · una asimetría brutal
+
+Esta dualidad se expresa también, y muy intensamente, en el **mercado de la vivienda**:
+
+| Concepto | Madrid capital | Pastrana (Alcarria de Guadalajara) | Ratio |
+|----------|---------------:|-----------------------------------:|------:|
+| Precio medio compra (€/m²) | ≈ **4.500–5.000** | ≈ **600–900** | **5–8 ×** |
+| Alquiler medio (€/m²/mes) | ≈ **17–19** | ≈ **4–5** | **4 ×** |
+| Salario medio bruto necesario para acceder a vivienda en propiedad (40 m², 30 años) | > 40.000 €/año | ≈ 12.000 €/año | — |
+
+> *Cifras de orden de magnitud (referencias 2024–2025) que se afinarán en la documentación final con datos oficiales del Ministerio de Vivienda y portales especializados (idealista, Tinsa, Notariado).*
+
+Mientras un joven ingeniero recién titulado en UPM apenas puede plantearse acceder a vivienda en propiedad en Madrid sin avales familiares —y sufre un mercado de alquiler tensionado, de baja calidad y altos precios—, **a 110 km la oferta es radicalmente distinta**: vivienda de coste accesible (5–8 veces más barata), ratio salario-vivienda razonable y casas tradicionales con valor patrimonial. Pero **falta el cómo**: ¿de qué se vive? ¿qué red profesional existe? ¿qué conectividad? ¿qué proyecto vital, social y económico hace deseable el cambio?
+
+A esta pregunta responde NEB-ALCARRIA.
+
+## 0.5 La paradoja del paisaje: vegas hortícolas moriscas en retirada
+
+El paisaje hortícola tradicional de las vegas alcarreñas —herencia de los **regadíos moriscos** introducidos en la Edad Media en los valles del Tajuña y el Tajo— está en **regresión documentada**: muchas parcelas hortícolas se han abandonado o convertido en cultivos extensivos de menor valor añadido, los frutales tradicionales (membrillo, almendro, manzano alcarreño) reculan ante las grandes explotaciones de cereal y, donde el regadío persiste, se enfrenta a problemas crecientes de eficiencia hídrica y rentabilidad.
+
+Este abandono no es sólo una pérdida agronómica: es una **pérdida cultural**, **paisajística** y **patrimonial**. Las vegas eran el espacio donde la Alcarria se diferenciaba de su entorno paramero, donde la **biodiversidad cultivada** alcanzaba su máximo y donde el **paisaje moldeado por generaciones** alcanzaba su forma estética más reconocible.
+
+## 0.6 Por qué NEB-ALCARRIA: tres realidades indisociables del territorio, una intervención articulada
+
+NEB-ALCARRIA aborda **simultáneamente y de forma indisociable** tres realidades del territorio alcarreño que la propia convocatoria del RD 251/2024 (intervención supraautonómica 7201) reconoce y prioriza:
+
+1. El **déficit de digitalización** del sector agroalimentario en la microexplotación hortícola — el reto al que da respuesta directa el Programa I.B.
+2. La **despoblación documentada** de la Alcarria interior y el desequilibrio demográfico frente al área metropolitana de Madrid — cuantificada en las secciones 0.2 y 0.3 de esta memoria.
+3. La **erosión del patrimonio histórico-paisajístico** del huerto morisco tradicional, regresión documentada de las vegas hortícolas alcarreñas con sus consecuencias culturales, ecológicas y económicas.
+
+**Las tres están entrelazadas y son inseparables**: sin digitalización no hay viabilidad económica que retenga a los jóvenes profesionales en el medio rural; sin equilibrio demográfico no hay manos ni mercado para mantener el paisaje; sin patrimonio paisajístico se pierde la deseabilidad del territorio que hace posible el regreso. Cualquier intervención que aborde una sola de las tres dimensiones —por sólida que sea técnicamente— corre el riesgo de evaporarse al chocar con las otras dos. Por eso NEB-ALCARRIA las trata como **una sola intervención articulada**, integral y coherente.
+
+**Esa intervención articulada es, en su núcleo y conforme al objetivo del Programa I.B del RD 251/2024 al que se concurre, un proyecto de digitalización del sector agroalimentario aplicado a la microexplotación hortícola.** Las 25 actividades demostrativas del Living Lab giran en torno a **un stack tecnológico digital concreto, replicable y soberano**: cuaderno digital de explotación (CUE/SIEX) integrado sobre plataforma open-source, sensorización IoT LoRa para riego automatizado, SIG de alta precisión (QGIS+QField) sobre capa SIGPAC, teledetección combinada Sentinel-2 + dron multispectral, y trazabilidad Global GAP-compatible — todos los componentes alineados con las **temáticas prioritarias del Programa I.B (digitalización agraria, big data, IoT, sensorización, computación en la nube, SIGPAC/SIEX)** y con la **línea estratégica A) "Propuestas que aborden la adaptación al uso del Cuaderno Digital de Explotación Agrícola"** del baremo de la convocatoria.
+
+Esa digitalización —destino subvencionable inequívoco— **se articula bajo el marco de la Nueva Bauhaus Europea** *(Beautiful, Sustainable & Together)* como **marco de sentido que multiplica el impacto del proyecto sobre las otras dos dimensiones del problema, sin desviar ni un euro del destino subvencionable**. La misma intervención digital, gracias a este marco, queda atada simultáneamente a:
+
+- La **línea estratégica A** del baremo (CUE) y los **objetivos específicos PEPAC b/e** (competitividad, eficiencia de recursos) — dimensión digital, núcleo I.B.
+- La **línea estratégica D** del baremo *(Estímulo al relevo generacional y a la incorporación de jóvenes)* y los **objetivos PEPAC g/h** (atracción de jóvenes profesionales, desarrollo local rural) — **dimensión demográfica**, núcleo del puente Madrid–Alcarria.
+- Los **objetivos PEPAC e/f** (sostenibilidad, conservación de hábitats y paisajes) — **dimensión patrimonial-paisajística**, recuperación del huerto morisco como elemento de identidad alcarreña.
+
+**La digitalización es la palanca** que entrega el resultado subvencionable; el **marco NEB asegura adopción real, deseabilidad y permanencia** de esa digitalización en el territorio; y **el equilibrio demográfico de la Alcarria y el mantenimiento de su patrimonio histórico-cultural no son corolarios desdeñables sino objetivos del proyecto** que se obtienen *por* la articulación, no *a costa* de ella. Sin marco NEB, el riesgo es construir una herramienta digital que no se adopta porque nadie la quiere usar y un territorio que se sigue vaciando aunque tenga buenos sensores. Sin digitalización, el marco NEB se queda en proclamación cultural. Juntos —y sólo juntos— hacen que la herramienta se adopte, que la herramienta retenga gente, y que la gente cuide el paisaje.
+
+Los tres pilares del NEB Compass operan sobre esta lógica unitaria:
+
+- **Sustainable.** La microexplotación hortícola digitalizada permite a un joven profesional generar valor económico real sobre 3.000 m² mediante ciclos cortos suelo-mesa, riego automatizado de altísima eficiencia hídrica, sensorización IoT, trazabilidad completa al CUE y certificación Global GAP — vías que hoy son inaccesibles para una microexplotación por el coste de las soluciones privativas. **Esta es la dimensión digital troncal del proyecto** y el núcleo del Programa I.B.
+- **Beautiful.** El **domo geodésico NEB** —co-construido con materiales locales (madera, corcho)— y la **regeneración activa del paisaje hortícola morisco** sobre la parcela cedida hacen del Living Lab no sólo una infraestructura productiva, sino un **espacio inspirador de alta calidad sensorial** que **rescata y proyecta hacia el futuro el patrimonio histórico-paisajístico de la Alcarria**. La belleza es aquí condición de deseabilidad: lo que no es bello no resiste el primer invierno y la herramienta digital, por buena que sea, no se adopta. La conservación del patrimonio cultural alcarreño es así parte estructural del proyecto, no un añadido decorativo.
+- **Together.** El proyecto se construye con un **enfoque multiactor (AKIS) — explícitamente reconocido como criterio de impacto B4 del baremo**: investigadores UPM (GeoSo2), técnicos territoriales (COPRODELI), administración local (Ayto. de Pastrana, entidad colaboradora), profesionales del sector hortícola alcarreño, sabios del lugar y futuros profesionales (estudiantes UPM en prácticas). La **co-creación bidireccional** entre todos ellos es el principio articulador y el mecanismo por el cual el stack digital se valida en condiciones operativas reales (TRL 5 → TRL 8 cerca de TRL 9), al mismo tiempo que **se restablece la trama social intergeneracional que el éxodo rural había debilitado**.
+
+El proyecto, así formulado, **encaja íntegramente en el destino subvencionable del Programa I.B** y, gracias al marco NEB, **multiplica simultáneamente el retorno social, demográfico y cultural** sobre el territorio: tender un puente Madrid–Alcarria que ofrezca a las nuevas generaciones de ingenieros UPM una **vía vital y profesional concreta hacia el medio rural**, demostrando empíricamente —no proclamando— que es posible vivir y trabajar en la Alcarria con una calidad de vida superior, infraestructura digital de primer nivel, paisaje hortícola tradicional regenerado, y arraigo en una comunidad multigeneracional viva.
+
+---
+
 # 1. RESUMEN EJECUTIVO
 
 ## 1.1 Descripción breve de las entidades de la agrupación
@@ -83,8 +189,8 @@ Objetivos generales O1–O5:
 
 NEB-ALCARRIA combina cinco elementos diferenciales **únicos** en el panorama de propuestas I.B:
 
-1. **Stack tecnológico 100 % open-source** adaptado al contexto español (FarmOS + QGIS + QField + Sentinel-2 + LoRa-IoT) — replicable y soberano.
-2. **Salto de TRL 5 → TRL 8** documentado: integración del stack en P1 (TRL 5→7), validación operativa con feedback real en P2 (TRL 7→8).
+1. **Stack tecnológico 100 % open-source** adaptado al contexto español. La selección concreta de componentes —entre soluciones consolidadas como **FarmOS** o **QField**, plataformas equivalentes y/o **desarrollos propios** del grupo GeoSo2 ya disponibles en TRL 5— se cerrará en P1 según la decisión de arquitectura tomada al inicio del proyecto. La pieza geoespacial se apoyará en QGIS/PostGIS, la teledetección en Sentinel-2 y dron multispectral, y la sensorización en redes LoRa-IoT — todos componentes maduros y soberanos.
+2. **Salto de TRL 5 → cerca de TRL 9** documentado en dos tramos: integración y despliegue del stack en P1 (TRL 5 → TRL 7), validación operativa con feedback real de usuarios finales en P2 (TRL 7 → TRL 8, aproximándose a TRL 9 al final del proyecto si la validación operativa lo permite).
 3. **Co-construcción física del domo geodésico** como infraestructura demostrativa permanente, materializando el principio NEB *Beautiful*.
 4. **Innovación interactiva multiactor (AKIS)**: jóvenes ingenieros UPM × sabios del lugar × profesionales del sector co-creando soluciones en el terreno.
 5. **Anclaje territorial fuerte**: parcela experimental de 3.000 m² cedida por el Ayuntamiento de Pastrana, ciclos productivos completos (otoño + primavera) con datos reales volcados al CUE.
@@ -151,7 +257,7 @@ Esta combinación es coherente con el **enfoque multiactor (AKIS)** que el RD 25
 | 2. Laboratorios y aulas UPM | ETSI Montes, Forestal y del Medio Natural · Espacios de GeoSo2 | `[PENDIENTE]` | Apoyo a F1–F4 y F10 (configuración previa de software, modelado CAD) |
 | 3. Sede COPRODELI | `[PENDIENTE: ubicación]` | 1 | Coordinación territorial, recepción de participantes |
 | 4. Servidor IoT del Living Lab | Gateway LoRa + servidor backend hospedado en UPM/Pastrana | 1 | Recoge datos de sensores y los vuelca al CUE digital |
-| 5. Software open-source ya operativo en UPM | QGIS, PostGIS, FarmOS (instalación piloto) | `[PENDIENTE]` | Base TRL 5 que se adaptará al caso de uso |
+| 5. Software open-source ya operativo en UPM | QGIS, PostGIS y plataformas de gestión agraria (FarmOS / QField / desarrollos propios u otras alternativas open-source) | `[PENDIENTE]` | Base TRL 5 (componentes individualmente validados) que se integrará y adaptará al caso de uso en P1 |
 | 6. Equipos de medición | Drones, GPS de precisión, instrumentación de campo `[PENDIENTE: inventario detallado]` | `[PENDIENTE]` | Soporte de F4, F7 |
 
 #### Compra o arrendamiento con opción a compra de nueva maquinaria/equipo (Partida C)
@@ -160,9 +266,10 @@ Esta combinación es coherente con el **enfoque multiactor (AKIS)** que el RD 25
 
 | Tipo | Descripción / Uso | Nº | Justificación |
 |------|-------------------|----|---------------|
-| Equipo IoT | Lote 20 sensores LoRa humedad/meteo + gateway · F3 (despliegue), F8 (ciclos) | 1 lote | Imprescindible para demostrar riego automatizado y trazabilidad de datos |
-| Dron multispectral | DJI Mavic 3M + cámara multiespectral · F7 (vuelo dronístico RGB+NDVI) | 1 | Demostración de teledetección de alta precisión sobre microexplotación |
-| Servidor / gateway IoT | Gateway LoRa + servidor backend FarmOS | 1 | Núcleo del Living Lab digital |
+| Equipo IoT — sensores | Lote de 15 sensores LoRa humedad/meteo (3.700 €) · F3 (despliegue), F8 (ciclos) | 1 lote | Imprescindible para demostrar riego automatizado y trazabilidad de datos |
+| Dron 4K | Cuerpo del dron 4K (3.500 €) · proveedor: importador de drones · F7 (vuelo dronístico) | 1 | Plataforma aérea de captura |
+| Cámara multispectral | Cámara multispectral compatible (4.500 €) · proveedor distinto, especializado en óptica multiespectral · F7 | 1 | Captura NDVI/NDRE. Justificación: ningún proveedor de dron 4K ofrece la óptica multiespectral con calidad equivalente; se contratan a empresas distintas |
+| Servidor / gateway IoT | Gateway LoRa + servidor backend (cuaderno digital open-source · arquitectura concreta a definir en P1) | 1 | Núcleo del Living Lab digital |
 
 > *Imputado por amortización del periodo subvencionable (Art. 8.1.a.10º RD 251/2024).*
 
@@ -181,9 +288,9 @@ Esta combinación es coherente con el **enfoque multiactor (AKIS)** que el RD 25
 
 | Tipo | Descripción / Uso | Nº | Justificación |
 |------|-------------------|----|---------------|
-| Software de cálculo de estructuras | Licencia anual para cálculo del domo geodésico (A8–A9) | 1 anual | Cálculo estructural profesional del domo |
+| Software de cálculo de estructuras | 3 licencias anuales para cálculo del domo geodésico (A8–A9) — IP estructural + 2 colaboradores GeoSo2/UPM trabajando en paralelo | 3 anuales | Cálculo estructural profesional del domo. Tres puestos en paralelo permiten verificación cruzada y trabajo conjunto IP+colaboradores en las fases críticas de cálculo. |
 
-> *El resto del stack tecnológico es 100 % open-source (FarmOS, QGIS, QField, PostGIS, Sentinel-2, Mosquitto MQTT, Grafana) — sin coste de licencia.*
+> *El resto del stack tecnológico es 100 % open-source (QGIS, QField, PostGIS, plataforma de gestión agraria tipo FarmOS o equivalente / desarrollos propios, Sentinel-2 vía Copernicus, Mosquitto MQTT, Grafana) — sin coste de licencia.*
 
 ---
 
@@ -217,7 +324,7 @@ Esta combinación es coherente con el **enfoque multiactor (AKIS)** que el RD 25
 
 | Id | Resultado general previsto |
 |----|---------------------------|
-| **R1** | **Cuaderno digital open-source NEB-ALCARRIA** (basado en FarmOS adaptado) operativo y desplegado con conectores SIGPAC/SIEX/Vademécum MAPA. |
+| **R1** | **Cuaderno digital open-source NEB-ALCARRIA** —construido sobre la mejor combinación open-source disponible (FarmOS adaptado / desarrollos propios GeoSo2 / componentes equivalentes, decisión de arquitectura tomada en P1)— operativo y desplegado con conectores SIGPAC/SIEX/Vademécum MAPA. |
 | **R2** | **Configuración QGIS + QField** lista para microexplotaciones, con plantillas, capa SIGPAC, NDVI Sentinel-2 y exportación al cuaderno digital. |
 | **R3** | **≥ 60 profesionales únicos** del sector formados/expuestos a las herramientas, ratio prof:estud ≥ 70 % (cumplimiento del criterio "destinatarios del sector"). |
 | **R4** | **Domo geodésico NEB** levantado, equipado y conectado · 1 unidad demostrativa permanente. |
@@ -231,7 +338,7 @@ Esta combinación es coherente con el **enfoque multiactor (AKIS)** que el RD 25
 
 NEB-ALCARRIA contribuye al **objetivo de modernizar la agricultura, la selvicultura y las zonas rurales** (Art. 6.2 Reg. UE 2021/2115) mediante:
 
-- **Innovación**: integración de tecnologías existentes (FarmOS, QGIS, IoT LoRa, Sentinel-2) en un sistema coherente para microexplotación hortícola, hasta hoy inexistente en España.
+- **Innovación**: integración de tecnologías existentes (plataformas de gestión agraria open-source tipo FarmOS o desarrollos propios del grupo, QGIS+QField, IoT LoRa, Sentinel-2 y dron multispectral) en un sistema coherente para microexplotación hortícola, hasta hoy inexistente en España bajo licencia abierta.
 - **Digitalización**: cubre el ciclo completo desde la captura de datos en campo (QField/sensores) hasta la trazabilidad y reporte (CUE/SIEX).
 - **Adopción por agricultores**: a través de las 25 actividades demostrativas presenciales con ratio ≥ 70 % de profesionales del sector.
 
@@ -320,14 +427,14 @@ Componente **medioambiental**: bioeconomía circular (corcho local), eficiencia 
 
 | Id Actividad | Medio TIC | Descripción del uso previsto y repercusión en la actividad |
 |--------------|-----------|------------------------------------------------------------|
-| A2, A3, A24 | **Software CUE/SIEX y SIGPAC** | Cuaderno digital open-source (FarmOS adaptado) con conectores SIGPAC y SIEX. Importación de Vademécum MAPA con alertas fitosanitarios. Demostración con datos reales de la parcela. |
-| A4, A25 | **GIS open-source (QGIS + QField)** | Plantillas cartográficas para microexplotación, capa SIGPAC, NDVI Sentinel-2. QField sobre tablet/smartphone para captura de datos en campo, sincronizada con QGIS Desktop. |
-| A4, A17 | **Sensorización y teledetección** (Sentinel-2 + dron multispectral) | Cálculo de índices de vegetación (NDVI, NDRE) con imágenes satelitales gratuitas y vuelos dronísticos RGB+multispectral. Análisis temporal del estado de la huerta. |
+| A2, A3, A24 | **Software CUE/SIEX y SIGPAC** | Cuaderno digital open-source (FarmOS adaptado, desarrollos propios GeoSo2 u otra plataforma open-source equivalente — decisión de arquitectura tomada al inicio de P1) con conectores SIGPAC y SIEX e importación del Vademécum MAPA con alertas fitosanitarios. Demostración con datos reales de la parcela. |
+| A4, A25 | **GIS open-source (QGIS + QField)** | Plantillas cartográficas para microexplotación, capa SIGPAC, NDVI Sentinel-2 y NDVI/NDRE de vuelo dronístico multispectral. QField sobre tablet/smartphone para captura de datos en campo, sincronizada con QGIS Desktop. |
+| A4, A17 | **Sensorización y teledetección** (Sentinel-2 + dron multispectral) | Cálculo de índices de vegetación (NDVI, NDRE) combinando imágenes satelitales Sentinel-2 (resolución 10 m, gratuitas, paso de 5 días) con vuelos dronísticos RGB + multispectral (resolución cm, paso programable). Análisis temporal y comparativa multi-resolución del estado de la huerta. |
 | A5, A6, A7, A16 | **Internet de las Cosas (IoT)** — red LoRa | Despliegue de red de sensores LoRa (humedad de suelo, meteo, EC) con gateway propio. Volcado automatizado de datos al cuaderno digital. Riego automatizado con lógica programable. |
-| A5–A22 (continuo) | **Big Data y analítica de datos** | Plataforma Grafana/Apache Superset para dashboards de monitorización en tiempo real. Histórico de datos de 2 ciclos productivos para análisis de eficiencia. |
-| A6, A7 | **Computación en la nube** | Despliegue del backend FarmOS y la base de datos PostgreSQL/PostGIS en servidor del Living Lab + replicación cloud para acceso remoto. |
+| A5–A22 (continuo) | **Big Data y analítica de datos** | Plataformas open-source de visualización en tiempo real (tipo Grafana, Apache Superset u otras) para dashboards de monitorización. Histórico de datos de los 2 ciclos productivos para análisis de eficiencia. |
+| A6, A7 | **Computación en la nube** | Despliegue del backend del cuaderno digital (FarmOS / desarrollos propios / plataforma equivalente) y de la base de datos PostgreSQL/PostGIS en servidor del Living Lab + replicación cloud para acceso remoto. La elección concreta del software se cierra en P1 según la decisión de arquitectura. |
 | A24 | **Inteligencia artificial / Analítica predictiva** | `[PENDIENTE: si procede — modelo predictivo de riego basado en datos históricos + meteo. Si no, marcar como no aplica]` |
-| A8, A9 | **Software de cálculo estructural** | Licencia anual de software estructural para cálculo del domo geodésico. Único componente NO open-source (justificado por la complejidad estructural). |
+| A8, A9 | **Software de cálculo estructural** | 3 licencias anuales de software estructural profesional (1 IP + 2 colaboradores GeoSo2/UPM) para cálculo riguroso del domo geodésico. Único componente NO open-source del stack, justificado por la complejidad y responsabilidad estructural del cálculo. |
 | A1, A23 | **Plataforma web y RRSS** | Web del proyecto + difusión en RRSS (criterio AKIS, comunicación obligatoria con FEADER + MAPA). |
 
 ---
@@ -340,18 +447,19 @@ NEB-ALCARRIA impacta en el ecosistema de innovación a tres niveles:
 
 **1. Sector microexplotación hortícola — modelo replicable y open-source**
 
-El **stack tecnológico open-source** (FarmOS+QGIS+QField+IoT LoRa+Sentinel-2) que la propuesta integra y valida es **directamente replicable** por cualquier microexplotación española sin coste de licencia (salvo el software estructural del domo). Esto rompe la dependencia de soluciones privativas (Geofolia, Agroptima, etc.) y democratiza el acceso a la digitalización en el sector más vulnerable: la microexplotación.
+El **stack tecnológico open-source** que la propuesta integra y valida —cuaderno digital de explotación (FarmOS adaptado, desarrollos propios GeoSo2 o plataforma equivalente, decisión de arquitectura cerrada en P1), QGIS+QField, red IoT LoRa, Sentinel-2 y dron multispectral— es **directamente replicable** por cualquier microexplotación española sin coste de licencia (salvo el software estructural del domo). Esto rompe la dependencia de soluciones privativas (Geofolia, Agroptima, etc.) y democratiza el acceso a la digitalización en el sector más vulnerable: la microexplotación.
 
-**Salto de madurez tecnológica documentado:**
-- **TRL 5** (punto de partida): componentes individualmente validados en entornos relevantes pero no integrados como producto unificado para microexplotación hortícola en España.
-- **TRL 7** (al final de P1, mar–abr 2027): A24 y A25 entregan el sistema **completo y operativo** desplegado en el servidor del Living Lab, con conectores SIGPAC/SIEX/Vademécum MAPA y plantillas QGIS para microexplotación.
-- **TRL 8** (al final de P2, mar 2028): tras 17 actividades demostrativas con feedback iterativo de profesionales del sector y 2 ciclos productivos completos sobre la parcela real, el sistema queda **validado en su entorno operativo definitivo** y cualificado para despliegue replicable.
+**Salto de madurez tecnológica documentado, en dos tramos:**
+
+- **TRL 5** (punto de partida, situación actual del consorcio). Los componentes están **individualmente validados** en entornos relevantes —algunos como software ya en uso por GeoSo2/UPM en proyectos previos, otros como soluciones consolidadas de la comunidad open-source— pero **no integrados** como producto unificado, soberano y adaptado para la microexplotación hortícola española. La pieza que aún no existe es **la integración**: conectores SIGPAC y SIEX, importación del Vademécum MAPA, modelo de datos para microexplotación hortícola, plantillas QGIS específicas, app móvil con QField configurada, pipeline de datos de IoT LoRa y dron al cuaderno digital, y un despliegue de referencia en un servidor concreto.
+- **TRL 7** (al final de P1, mar–abr 2027). Las actividades A24 y A25 materializan ese trabajo de integración: el sistema queda **completo y operativo** desplegado en el servidor del Living Lab. En este punto, el stack está **demostrable** en condiciones representativas pero aún no validado por usuarios finales en operación real prolongada.
+- **TRL 8 — aproximándose a TRL 9** (al final de P2, mar 2028). Tras 17 actividades demostrativas presenciales con feedback iterativo de **profesionales reales del sector** y dos ciclos productivos completos sobre la parcela real (otoño 2027 + primavera 2028), el sistema queda **validado en su entorno operativo definitivo** y cualificado para despliegue replicable. Si la validación operativa se extiende durante todo P2 sin incidencias críticas y con métricas de adopción favorables, **el proyecto se acercará a TRL 9** (sistema cualificado para producción comercial real). Esta progresión TRL 5 → 7 → 8 (cerca de 9) está alineada con el esfuerzo presupuestario de P1 y la duración de validación operativa de P2.
 
 **2. Innovación interactiva multiactor (AKIS)**
 
 La propuesta encarna íntegramente el principio de innovación interactiva del RD 251/2024:
 
-- **Investigadores**: GeoSo2/UPM aporta rigor científico-técnico (configuración FarmOS, plantillas QGIS, modelado IoT, vuelos dronísticos).
+- **Investigadores**: GeoSo2/UPM aporta rigor científico-técnico (integración del cuaderno digital open-source, plantillas QGIS, modelado IoT, vuelos dronísticos multispectrales, calibración entre Sentinel-2 y dron).
 - **Profesionales del sector**: agricultores activos, técnicos, asesores SAT que aportan **conocimiento tácito** del cultivo y validan la pertinencia de las herramientas.
 - **Sabios del lugar**: comunidad alcarreña que aporta el conocimiento ancestral del paisaje hortícola morisco tradicional.
 - **Futuros profesionales**: estudiantes UPM (GIF, GIMN, GITA, Telecos, Agrónomos, Industriales/Arquitectura) que se exponen al medio rural y lo encuentran atractivo profesionalmente.
@@ -389,11 +497,63 @@ Línea estratégica **D** del baremo (RD-30 / Convocatoria 2026): NEB-ALCARRIA e
 
 | Concepto | Importe |
 |----------|--------:|
-| **TOTAL P1 (nov 2026 – may 2027)** | **72.285 €** (33 %) |
-| **TOTAL P2 (jul 2027 – mar 2028)** | **146.626 €** (67 %) |
-| **TOTAL GENERAL** | **218.910 €** |
+| **TOTAL P1 (nov 2026 – may 2027)** | **≈ 63.590 €** (34 %) |
+| **TOTAL P2 (jul 2027 – mar 2028)** | **≈ 121.760 €** (66 %) |
+| **TOTAL GENERAL subvencionable solicitado** | **≈ 185.350 €** |
 
-> *Distribución cercana al 30 % / 70 % recomendado por FEGA. Total dentro del rango admisible (mín. 70.000 € · máx. 500.000 € por propuesta).*
+> *Cifras consolidadas en `NEB-ALCARRIA-PRESUPUESTO.xlsx`. Distribución cercana al 30 % / 70 % recomendado por FEGA. Total dentro del rango admisible (mín. 70.000 € · máx. 500.000 € por propuesta).*
+
+### Ejecución logística por COPRODELI a precios efectivos por debajo de los topes oficiales — moderación de costes activa
+
+**COPRODELI**, como entidad representante de la agrupación y motor territorial del proyecto Alcarria Encantada, **ejecuta directamente con medios propios** el conjunto de recursos logísticos asociados a las 29 ediciones de actividades demostrativas: alojamiento, manutención y transporte de los asistentes que se desplazan desde Madrid, así como los espacios de jornadas. Esta ejecución es **gasto propio subvencionable de la agrupación beneficiaria** (Art. 10 RD 251/2024 excluye expresamente del concepto de subcontratación los gastos en que la propia entidad beneficiaria incurra para la realización de la actividad).
+
+**El consorcio aplica precios efectivos por debajo de los topes oficiales** (RD 462/2002 grupo 2) como forma activa de moderación de costes:
+
+| Concepto | Tope oficial | Precio efectivo COPRODELI | Ahorro vs tope |
+|----------|-------------:|--------------------------:|---------------:|
+| Alojamiento (residencia COPRODELI propia) | 65,97 €/noche | **55,00 €/noche** | **-17 %** |
+| Manutención día completo (almuerzo + cena) | 37,40 €/día | **30,00 €/día** | **-20 %** |
+| Almuerzo o cena (media dieta) | 18,70 €/cubierto | **15,00 €/cubierto** | **-20 %** |
+| Locomoción coche particular | 0,26 €/km | **0,26 €/km** (en tope) | 0 % |
+| Transporte Madrid–Pastrana | ~700 €/día bus alquilado | **Vehículos propios COPRODELI** (4 vehículos × 20 plazas = 80 plazas/día a 0,26 €/km) | **~-67 %** vs alquiler externo |
+
+#### Doble ahorro del transporte por flota COPRODELI
+
+El transporte merece una mención específica porque concentra el mayor ahorro del proyecto y opera sobre **dos ineficiencias simultáneas**:
+
+**1. Ahorro frente al alquiler de bus externo.** Un bus convencional de 50 plazas para el trayecto Madrid–Pastrana cuesta del orden de **700 €/día de mercado**. Los 4 vehículos propios de COPRODELI (80 plazas totales), repostados al kilometraje oficial de **0,26 €/km × 110 km × 2 ida-vuelta = 57,2 €/vehículo/día**, cubren con holgura el aforo de cualquier actividad demostrativa (la más numerosa, A23, traslada ~42 personas = 52,5 % de la capacidad disponible) a una fracción del coste de un alquiler externo.
+
+**2. Ahorro frente al desplazamiento individual.** En ausencia de la flota COPRODELI, la alternativa razonable —y la que asume tácitamente el RD 462/2002 cuando topa la locomoción en 0,26 €/km— es que **cada asistente se desplace en su propio coche**. Para una actividad demostrativa con 20 asistentes desde Madrid eso significarían 18-20 coches al kilometraje oficial × 220 km ida-vuelta = **~1.030–1.144 €/día sólo de transporte**, con el problema añadido de coordinación logística (puntualidad, aparcamiento, dispersión a la llegada y la salida). La flota COPRODELI **agrupa a los asistentes** en 1-2 vehículos para 20 plazas/cada, lo que reduce el coste de locomoción a ~57-114 €/día (un orden de magnitud menos), elimina la dispersión y refuerza el componente **Together** del marco NEB ya desde el propio viaje al Living Lab.
+
+Esta lógica de agrupación no es sólo un mecanismo de moderación de costes: es **una decisión de diseño metodológico**. El viaje en grupo desde Madrid hacia Pastrana se convierte, en sí mismo, en parte de la experiencia multiactor del Living Lab — el espacio donde los estudiantes UPM, los profesionales del sector y los tutores empiezan a co-construir la jornada antes incluso de llegar a la parcela.
+
+**Capacidad logística total de transporte:** 4 vehículos × 20 plazas = **80 plazas/día**, suficiente para cubrir todas las actividades demostrativas con margen.
+
+#### Efecto presupuestario consolidado
+
+- **Coste teórico a precios de mercado** (RD 462/2002 al tope, bus alquilado): ~52.500 € en B.1.
+- **Coste efectivo facturado al proyecto por COPRODELI** (precios reducidos + flota propia): **~27.000 €**.
+- **Moderación de costes activa del consorcio**: **~25.500 €** de ahorro respecto al escenario de mercado (~49 % de B.1).
+
+Estos precios reducidos quedan documentados en el **bloque E "Precios COPRODELI" de la hoja PARAMETROS** del Excel del proyecto (todos los valores son inputs azules editables) y se aplican consistentemente en todas las fórmulas de la hoja VIAJES.
+
+**Implicaciones positivas para la propuesta:**
+
+1. **Moderación de costes activa** (no sólo declarativa): la propia estructura de precios del proyecto demuestra que el consorcio ha optimizado el coste antes de presentar la solicitud, no se limita a "cumplir" el tope.
+2. **Anclaje territorial**: la logística íntegra del Living Lab se gestiona desde el propio territorio alcarreño, reduciendo la dependencia de proveedores externos y reforzando el enfoque NEB *Together*.
+3. **Capacidad operativa demostrada**: la disponibilidad de infraestructura de alojamiento, restauración y flota de transporte propias es una **garantía operativa real** de que las 29 ediciones de actividades demostrativas se ejecutarán sin fricciones logísticas y con calidad metodológica (agrupación, cohesión, no dispersión).
+4. **Compromiso del consorcio**: los ~25.5 k € de ahorro respecto al escenario de mercado equivalen a un **~49 % del coste teórico de B.1**, una optimización sustancial que el evaluador puede valorar positivamente en los criterios A2 (capacidad y estructura propia) y B5 (presupuesto y moderación de costes).
+
+### Moderación de costes y estructura de proveedores (Fase I)
+
+Toda partida individual del presupuesto está **diseñada por debajo del umbral de 5.000 €** (importe de cada concepto, calculado por proveedor según el cómputo del Art. 9.1.c RD 251/2024). En consecuencia, **ninguna partida requiere aportar tres ofertas comparables (Anexo VII) ni memoria justificativa (Anexo VIII) en la fase de solicitud inicial**. Esta estructura responde a una división **funcional y técnica honesta** —no a fraccionamiento artificial, expresamente prohibido por el Art. 29.4 LGS y el Art. 10.5 RD 251/2024— porque cada partida corresponde a un objeto/servicio técnicamente diferenciado contratado a proveedores efectivamente distintos:
+
+- **Dron 4K** (3.500 €) e **cámara multispectral** (4.500 €): proveedores distintos · ningún importador de drones 4K ofrece la óptica multispectral con la calidad equivalente al proveedor especializado.
+- **Listones de madera** (3.500 €) y **tornillería + herrajes metálicos** (1.500 €): proveedores de sectores comerciales distintos (aserradero / ferretería industrial).
+- **Paneles fotovoltaicos** (4.500 €) y **baterías + cableado + instalación** (3.500 €): proveedores distintos · el importador especializado en paneles bifaciales no realiza instalación BT; el electricista local con certificación BT no importa paneles bifaciales N-type.
+- **Aislamiento térmico** (3.000 €) y **aislamiento hidrófugo** (2.500 €): proveedores distintos · materiales y certificaciones técnicas no equivalentes.
+
+Conforme a la **FAQ 6.10 oficial del MAPA**, en la **fase de pago (auditoría 2028)** se aplicará la moderación de costes a todos los gastos, sea cual sea su importe; por ello el consorcio mantendrá durante la ejecución **documentación complementaria de mercado** (capturas, proformas adicionales, referencias de precio) para cada compra, sin que ello sea obligatorio en Fase I.
 
 ### Justificación del importe por partida o concepto de gasto
 
@@ -411,8 +571,8 @@ Línea estratégica **D** del baremo (RD-30 / Convocatoria 2026): NEB-ALCARRIA e
 | B.5 | Auditoría | 2.800 € | Auditor externo (1 % subvención · máx. 5.000 €). |
 | B.6 | Alquileres | 5.000 € | Andamios para domo (P2), equipos formación P1, herramientas puntuales. |
 | B.7 | Comunicación | 1.500 € | Web, RRSS, podcast, vídeo, roll-ups, dossier final. Tope: 1.500 €. |
-| C.1 | Bienes inventariables (amortización) | 7.250 € | Cuota de amortización del periodo subvencionable de: dron multispectral DJI Mavic 3M (8.000 € · vida 60 m), lote 20 sensores IoT LoRa (5.000 € · vida 60 m), software cálculo estructuras (3.000 € · licencia anual prorrateada), servidor/gateway IoT (2.000 € · vida 60 m). |
-| C.2 | Otras inversiones | 42.000 € | Materiales que quedan vinculados al Living Lab: cimentación domo (2.500 €), estructura del domo (13.500 €), cubierta y suelos (4.000 €), aislamiento hidrófugo+térmico (3.500 €), ventanas (2.500 €), cableado y sistema solar (8.000 €), conectividad satelital (2.500 €), semillas y sustratos (2.000 €), sensórica y comunicaciones de riego (1.500 €), material de riego (2.000 €). |
+| C.1 | Bienes inventariables (amortización) | ~6.880 € | Cuota de amortización del periodo subvencionable de: dron 4K (3.500 € · vida 60 m), cámara multispectral compatible (4.500 € · vida 60 m · proveedor distinto), lote 15 sensores IoT LoRa humedad/meteo (3.700 € · vida 60 m), **3 licencias anuales de software de cálculo estructural** (3 × 1.000 € = 3.000 € · prorrateadas al periodo · IP estructural + 2 colaboradores), servidor/gateway IoT (2.000 € · vida 60 m). Todos los items < 5.000 € (no requieren 3 proformas en Fase I; sí en justificación de pago). |
+| C.2 | Otras inversiones | 36.000 € | Materiales que quedan vinculados al Living Lab, contratados a proveedores especializados distintos por motivos técnicos, todos < 5.000 €: **Domo** — cimentación (2.500 €), listones de madera (3.500 € · aserradero), tornillería y herramientas (1.500 € · ferretería industrial), cubierta exterior (4.500 € · proveedor de cubiertas técnicas), aislamiento térmico (3.000 €), aislamiento hidrófugo (2.500 €), ventanas (2.500 €). **Fotovoltaica** — paneles FV bifaciales (4.500 € · importador especializado) y baterías + cableado + instalación (3.500 € · electricista local certificado BT). **Otros** — conectividad satelital (2.500 €), semillas y sustratos (2.000 €), sensórica de riego (1.500 €), material de riego (2.000 €). |
 | — | Costes indirectos (15 % personal directo) | 9.500 € | Tipo fijo del 15 % sobre los costes directos de personal subvencionables (RD 251/2024 art. 8.1.b · analogía art. 54.b Reg. UE 2021/1060). |
 
 ### Justificación temporal en los 2 periodos de ejecución
@@ -420,7 +580,7 @@ Línea estratégica **D** del baremo (RD-30 / Convocatoria 2026): NEB-ALCARRIA e
 **Periodo 1 (P1, nov 2026 – may 2027 · 7 meses · 72.285 €):**
 
 - **Arranque del Living Lab** y movilización del consorcio.
-- **Configuración del software open-source (A24, A25)**: salto TRL 5 → TRL 7 — núcleo del refuerzo de personal UPM en P1 (≈ 25.000 € de horas adicionales para integrar FarmOS y QGIS al contexto español).
+- **Configuración del software open-source (A24, A25)**: salto TRL 5 → TRL 7 — núcleo del refuerzo de personal UPM en P1 (≈ 25.000 € de horas adicionales para integrar el cuaderno digital open-source —FarmOS adaptado, desarrollos propios GeoSo2 u otra plataforma equivalente, según la decisión de arquitectura tomada al inicio de P1— y la pieza GIS QGIS+QField al contexto español).
 - **Talleres demostrativos en aula-laboratorio** sobre el sistema configurado (A2, A3, A4, A8, A9).
 - **A.5 Coordinación P1**: refuerzo de dedicación de las coordinadoras (32 h/mes · 7 m · 2 personas) para gestionar la fase de configuración del software.
 - **Acondicionamiento previo del Living Lab**: en P1 también se prepara la parcela (replanteo del domo, gestión administrativa de la cesión, preparación del calendario P2).
@@ -539,7 +699,7 @@ La propuesta prevé las siguientes subcontrataciones:
 
 ### 3.1 Descripción de la actividad · Criterio B2
 
-**Breve descripción:** Jornada demostrativa que culmina varios meses de trabajo de adaptación del software open-source FarmOS al contexto español de microexplotación hortícola. Se demuestra el sistema completo desplegado: modelo de datos específico (parcelas, recintos, ciclos, sustratos, plántulas), conectores SIGPAC y SIEX, importación del Vademécum MAPA con alertas de fitosanitarios y zonas vulnerables, módulo de trazabilidad Global GAP-compatible, y app móvil para captura en campo. **Esta actividad materializa el salto de TRL 5 a TRL 7** del cuaderno digital.
+**Breve descripción:** Jornada demostrativa que culmina varios meses de trabajo de **integración y adaptación** de un cuaderno digital open-source al contexto español de microexplotación hortícola. La elección concreta de la plataforma —**FarmOS adaptado**, **desarrollos propios** del grupo GeoSo2 (que ya parten de TRL 5 con componentes individualmente validados) o una **plataforma open-source equivalente** que cumpla los requisitos— se decide al inicio de P1 según la mejor combinación coste-funcionalidad-soberanía. Sea cual sea la decisión de arquitectura, en esta jornada se demuestra el sistema **completo y operativo**: modelo de datos específico (parcelas, recintos, ciclos, sustratos, plántulas), conectores SIGPAC y SIEX, importación del Vademécum MAPA con alertas de fitosanitarios y zonas vulnerables, módulo de trazabilidad Global GAP-compatible, y app móvil para captura en campo. **Esta actividad materializa el salto de TRL 5 a TRL 7** del cuaderno digital.
 
 **Tipo de actividad** (Programa I.B):
 - ☑ Acciones demostrativas en centros tecnológicos, de investigación, **universitarios o de formación**.
@@ -548,7 +708,7 @@ La propuesta prevé las siguientes subcontrataciones:
 - ☑ Computación en la nube
 - ☑ Big Data
 - ☑ Analítica de datos
-- ☑ Otras: software open-source de gestión agraria (FarmOS, Drupal, PostgreSQL/PostGIS)
+- ☑ Otras: software open-source de gestión agraria (cuaderno digital sobre FarmOS, desarrollos propios o plataforma equivalente · Drupal · PostgreSQL/PostGIS)
 
 **Ediciones previstas:**
 
@@ -600,7 +760,7 @@ La propuesta prevé las siguientes subcontrataciones:
 - *Personal docente propio (A.3):* 1 ponente UPM (GP1, 6 h docencia + 9 h prep · 100 % UPM).
 - *Personal de apoyo propio (A.4):* **trabajo de configuración del sistema antes de la actividad** — equivalente a **350 h GP1 UPM + 60 h GP5 UPM + 30 h estudiantes UPM** (no remunerados).
 
-  > Este es el grueso del coste de A24 y refleja el trabajo de adaptación de FarmOS al contexto español: desarrollo de conectores SIGPAC/SIEX, importación del Vademécum MAPA, modelo de datos para microexplotación hortícola, despliegue en servidor, manuales, app móvil, pruebas. Conforme a la FAQ 3.34 del MAPA, el personal de apoyo NO está sujeto al límite de 1,5 h prep / h impartida.
+  > Este es el grueso del coste de A24 y refleja el trabajo de **integración y adaptación** de la plataforma open-source elegida (FarmOS adaptado / desarrollos propios GeoSo2 / equivalente) al contexto español: desarrollo de conectores SIGPAC/SIEX, importación del Vademécum MAPA, modelo de datos para microexplotación hortícola, despliegue en servidor, manuales, app móvil con QField, pruebas. Conforme a la FAQ 3.34 del MAPA, el personal de apoyo NO está sujeto al límite de 1,5 h prep / h impartida — un punto fundamental para hacer viable el salto TRL 5 → TRL 7.
 
 - *Personal de coordinación (A.5):* dedicación parcial.
 
@@ -608,7 +768,7 @@ La propuesta prevé las siguientes subcontrataciones:
 - Dossier técnico, manuales impresos, USB con software pre-configurado (todos los participantes se llevan una copia funcional).
 
 **Recursos técnicos (medios TIC):**
-- Servidor del Living Lab (Partida C.1) con FarmOS desplegado.
+- Servidor del Living Lab (Partida C.1) con el cuaderno digital open-source desplegado (plataforma según decisión P1).
 - Estación de trabajo del ponente.
 - Conectividad de Pastrana o sala de UPM con proyector y red.
 
