@@ -132,7 +132,90 @@ La fase 2 traslada los tres talleres al terreno. Se realiza **100 % presencialme
 
 > **Nota UPM (al margen del expediente FEGA).** La participación combinada en los talleres demostrativos de la Fase 1 y la inmersión sobre el terreno de la Fase 2 podrá convalidarse internamente por UPM como prácticas curriculares/extracurriculares y, eventualmente, como título propio. **Esto no constituye entregable ni objetivo evaluable de la subvención**, que se mide exclusivamente por indicadores I.B (asistencia, satisfacción, divulgación, demostración).
 
-### 8.3 Líneas transversales
+### 8.3 Listado consolidado de actividades demostrativas (referencia Anexo II.B)
+
+Operacionalmente, las dos fases narradas arriba se ejecutan como una **secuencia de 25 actividades demostrativas presenciales** (`A1`–`A25`), cada una de **≤ 2 días** (cumple Art. 5.6 RD 251/2024 y aclaración FEGA), agrupadas en **10 familias temáticas** (`F1`–`F10`) bajo el paraguas único del Living Lab. Cada actividad puede tener **una o varias ediciones** (mismo contenido, distintas fechas/lugares) para maximizar exposición y cubrir ventana estacional. Esta tabla es la **fuente de verdad** que se traslada a la sección 2.4 del Anexo II.B y al Anexo III (cronograma).
+
+| Id | Familia | Actividad demostrativa | Duración | Ediciones | Prep (h) | Ventana(s) | Periodo |
+|----|---------|------------------------|----------|-----------|---------:|------------|---------|
+| **A1** | F1 · Concepto NEB | Concepto NEB aplicado a la microexplotación alcarreña | 1 d | 1 | 8 | ene 2027 | P1 |
+| **A2** | F2 · CUE+SIG | Cumplimentación CUE/SIEX | 2 d | 2 | 32 | feb 2027 (E1) · sep 2027 (E2) | P1+P2 |
+| **A3** | F2 · CUE+SIG | SIGPAC y declaración | 1 d | 1 | 8 | mar 2027 | P1 |
+| **A4** | F2 · CUE+SIG | SIG QGIS + NDVI en campo | 2 d | 1 | 16 | abr 2027 | P1 |
+| **A5** | F3 · IoT+riego | Despliegue red IoT en huerta | 2 d | 1 | 80 | sep 2027 | P2 |
+| **A6** | F3 · IoT+riego | Demostración riego automatizado | 1 d | 2 | 32 | oct 2027 (E1) · feb 2028 (E2) | P2 |
+| **A7** | F3 · IoT+riego | Volcado automatizado de datos al CUE | 1 d | 1 | 16 | oct 2027 | P2 |
+| **A8** | F4 · Diseño digital | CAD instalaciones de madera | 2 d | 1 | 8 | may 2027 | P1 |
+| **A9** | F4 · Diseño digital | Cálculo y planos del domo geodésico | 1 d | 1 | 8 | may 2027 | P1 |
+| **A10** | F5 · Domo NEB | Levantamiento de la estructura del domo | 2 d | 1 | 160 | jul 2027 | P2 |
+| **A11** | F5 · Domo NEB | Anclajes y fijaciones del domo | 1 d | 1 | 80 | jul 2027 | P2 |
+| **A12** | F5 · Domo NEB | Cubierta y entelado del domo | 2 d | 1 | 40 | jul–ago 2027 | P2 |
+| **A13** | F5 · Domo NEB | Acabado e impermeabilización con corcho | 1 d | 1 | 24 | ago 2027 | P2 |
+| **A14** | F6 · Equipamiento | Instalación fotovoltaica | 1 d | 1 | 24 | ago 2027 | P2 |
+| **A15** | F6 · Equipamiento | Conectividad satelital y red | 1 d | 1 | 12 | ago 2027 | P2 |
+| **A16** | F7 · Despliegue terreno | Despliegue de sensores en la huerta | 2 d | 1 | 40 | sep 2027 | P2 |
+| **A17** | F7 · Despliegue terreno | Vuelo dronístico RGB + multiespectral | 1 d | 2 | 32 | oct 2027 (E1) · abr 2028 (E2) | P2 |
+| **A18** | F8 · Ciclo productivo | Jornada de inicio del ciclo otoño | 1 d | 1 | 32 | sep 2027 | P2 |
+| **A19** | F8 · Ciclo productivo | Seguimiento medio ciclo otoño | 1 d | 1 | 64 | nov 2027 | P2 |
+| **A20** | F8 · Ciclo productivo | Cosecha + lectura de datos otoño | 1 d | 1 | 32 | dic 2027 | P2 |
+| **A21** | F8 · Ciclo productivo | Jornada de inicio del ciclo primavera | 1 d | 1 | 48 | feb 2028 | P2 |
+| **A22** | F8 · Ciclo productivo | Cosecha + lectura de datos primavera | 1 d | 1 | 64 | abr 2028 | P2 |
+| **A23** | F9 · Cierre | Jornada final de resultados del Living Lab | 1 d | 1 | 8 | abr 2028 | P2 |
+| **A24** | F10 · Software open-source | Configuración del cuaderno digital open-source para microexplotación hortícola (FarmOS adaptado · TRL 5 → TRL 7) | 1 d | 1 | 440 | mar 2027 | P1 |
+| **A25** | F10 · Software open-source | Configuración del SIG open-source (QGIS + QField) para microexplotaciones (TRL 5 → TRL 7) | 1 d | 1 | 405 | abr 2027 | P1 |
+
+**Totales:** 25 actividades · 29 ediciones · 36 días-actividad (11 en P1, 25 en P2) · **~1.770 h de personal de apoyo** para acondicionamiento previo · aforo objetivo 15–25 participantes/edición · ~60–90 participantes únicos. Mínimo legal: ≥10 participantes/edición (Guía del Solicitante FEGA).
+
+#### Madurez tecnológica (TRL) y estrategia de progresión
+
+El stack tecnológico de NEB-ALCARRIA arranca en **TRL 5** (componentes individualmente validados en entornos relevantes pero no integrados como producto unificado para microexplotación hortícola en España): FarmOS, QGIS+QField, IoT LoRa, dron multiespectral, Sentinel-2.
+
+- **P1 — Configuración (A24, A25): TRL 5 → TRL 7.** El equipo UPM integra el conjunto en un **sistema completo y operativo** adaptado al caso de uso: cuaderno digital con conectores SIGPAC y SIEX, alertas Vademécum MAPA, plantillas QGIS para microexplotación, conexión Sentinel-2 para NDVI y trazabilidad Global GAP. Al final de P1 el sistema está **desplegado en el servidor del Living Lab y listo para uso real**.
+- **P2 — Demostración + feedback: TRL 7 → TRL 8.** Las 17 actividades demostrativas de P2 sobre la parcela real, con ciclos productivos completos (otoño + primavera) y feedback iterativo de profesionales del sector y la comunidad local, **validan el sistema en su entorno operativo definitivo** y elevan su madurez a TRL 8 (sistema completo y cualificado).
+
+Esta progresión es coherente con la línea estratégica **A) CUE** del baremo y con la **innovación interactiva multiactor (AKIS)** del criterio B4.
+
+> **A1 · Concepto NEB aplicado a la microexplotación alcarreña** abre el Living Lab con una **jornada multiactor de inmersión territorial** en Pastrana: presentación del marco *Beautiful, Sustainable & Together* aplicado al caso NEB-ALCARRIA, visita a la parcela experimental, dinámica de co-creación con la comunidad local, ejemplos de proyectos NEB-aligned en otros territorios europeos y lanzamiento del programa demostrativo. Sienta el lenguaje y los valores que vertebran las 22 actividades restantes.
+
+#### Acondicionamiento previo del Living Lab (personal de apoyo)
+
+El RD 251/2024 (Art. 8.1.a.1.**ii**) reconoce expresamente como gasto subvencionable la figura de **Personal de apoyo** —*"aquel personal no docente, encargado de dar soporte al desarrollo de las actividades formativas, demostrativas y divulgativas"*—, que es **novedad de esta convocatoria**. La FAQ 3.34 del MAPA aclara que **NO le aplica el tope de 1,5 h de preparación por hora impartida** (eso es solo para personal docente); su único límite es el laboral estándar de **1.720 h anuales por trabajador**. Esto permite imputar todo el trabajo de acondicionamiento físico previo a cada actividad demostrativa, lo que es **clave** porque una jornada demostrativa de ≤ 2 días no puede ejecutar materialmente todo el proceso (p. ej., los 20 anclajes del domo): la demostración muestra una **muestra representativa en condiciones reales** y el resto queda preparado por el personal de apoyo.
+
+**Partidas presupuestarias** (hoja `PRESUPUESTO P.I.B-Agrupación` del Anexo I y Anexo XXII):
+
+- **A.2 Personal de apoyo externo** — tope **90 €/h IVA excl.** (carpintería externa, instaladores eléctricos, técnicos IoT subcontratados).
+- **A.4 Personal de apoyo propio** — coste salarial bruto / 1.720 h anuales (técnicos UPM y COPRODELI dedicados al acondicionamiento).
+
+| Id | Tareas preparatorias | Horas | Perfil personal de apoyo |
+|----|---------------------|------:|--------------------------|
+| A1 | Logística del espacio, materiales conceptuales, dossier de bienvenida | 8 | Coordinación + diseño |
+| A2 | Preparación de datasets reales Pastrana, configuración de equipos (×2 ed) | 32 | Técnico/a GIS |
+| A3 | Configuración software SIGPAC, casos de estudio reales | 8 | Técnico/a GIS |
+| A4 | Preparación de imágenes satelitales, calibración de instrumentos de campo | 16 | Técnico/a GIS + drones |
+| A5 | **Pre-cableado y configuración de gateways LoRa, montaje del servidor IoT** (la demo despliega 3–4 sensores; el resto queda preinstalado para que la red sea operativa) | 80 | Técnico/a IoT |
+| A6 | Calibración de válvulas, programación de la lógica de riego (×2 ed) | 32 | Técnico/a IoT + agronómico |
+| A7 | Configuración del pipeline de datos, integración con la plataforma CUE | 16 | Técnico/a software |
+| A8 | Preparación de software CAD y modelos pre-cargados | 8 | Ingeniero/a CAD |
+| A9 | Hojas de cálculo del domo, ejemplos pre-resueltos | 8 | Ingeniero/a estructural |
+| A10 | **Precorte de listones de madera, perforación de uniones, marcado y acopio** (la demo monta un módulo del domo; el resto del material queda precortado) | 160 | Carpintero/a |
+| A11 | **Replanteo de los 20 puntos del domo, preinstalación de 16 anclajes** (la demo ejecuta los 4 anclajes restantes) | 80 | Albañil + topógrafo/a |
+| A12 | Tratamiento previo de paños de tela, prefijación parcial de la cubierta | 40 | Carpintero/a |
+| A13 | Preparación de la mezcla corcho-aglomerante, mock-up parcial | 24 | Carpintero/a |
+| A14 | **Pre-cableado fotovoltaico, montaje parcial del soporte** (la demo iza y conecta los paneles) | 24 | Instalador/a eléctrico |
+| A15 | Preconfiguración del router/red, preinstalación del soporte de antena | 12 | Técnico/a telecom |
+| A16 | Calibración de sensores en banco, configuración previa de cada nodo | 40 | Técnico/a IoT |
+| A17 | Calibración de cámaras del dron, planes de vuelo, datasets de referencia (×2 ed) | 32 | Operador/a de dron |
+| A18 | Laboreo de la parcela, abonado, sustratos, plántulas, riego inicial | 32 | Técnico/a agronómico |
+| A19 | Mantenimiento del cultivo entre A18 y A19 (riego, escardado, lectura de sensores) | 64 | Técnico/a agronómico |
+| A20 | Cosecha previa + preparación de la presentación de datos del ciclo otoño | 32 | Técnico/a agronómico |
+| A21 | Mantenimiento intercampaña + laboreo y siembra del ciclo primavera | 48 | Técnico/a agronómico |
+| A22 | Mantenimiento del ciclo primavera + cosecha + preparación de datos | 64 | Técnico/a agronómico |
+| A23 | Edición de vídeo de síntesis, materiales gráficos de la jornada final | 8 | Comunicación |
+| **Total** |  | **868** |  |
+
+Esta estimación se afina al construir el presupuesto definitivo y se traslada literal a la **sección 3.5 Recursos humanos** de cada ficha de actividad del Anexo II.B y al detalle del Anexo XXII (Memoria presupuestaria). En la justificación posterior cada hora se acredita con el **certificado por trabajador (Anexo XVI)** firmado por responsable y trabajador.
+
+### 8.4 Líneas transversales
 
 | Línea | P1 | P2 | Notas |
 |------|----|----|-------|
